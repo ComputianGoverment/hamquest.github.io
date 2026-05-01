@@ -1,5 +1,4 @@
-[ham-radio-rpg (4).html](https://github.com/user-attachments/files/27113284/ham-radio-rpg.4.html)
-# ham.github.io
+[ham-radio-rpg (5).html](https://github.com/user-attachments/files/27289248/ham-radio-rpg.5.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1357,6 +1356,70 @@ const STORM_VEHICLES = [
     flavor:'HyperVortex concept: drives directly into an EF5 wedge. All instruments. All cameras.',
     note:'Engineering concept only. Theoretical limits of tornado intercept vehicle design.',
     xpBonus:95, moralBonus:50 },
+
+  // ══ ADDITIONAL INTERCEPT VEHICLES ═══════════════════════════════════════
+  { id:'utav', name:'Urban Tornado Assault Vehicle (UTAV)',
+    type:'Armored Intercept', cost:145, armor:6, probeSlots:3, dataBonus:4,
+    desc:'Steve Worthington UTAV. Custom-built extreme intercept vehicle. Heavy steel armor, reinforced Ram chassis, hydraulic ground anchor system, full sensor array. Built for direct urban tornado engagement.',
+    flavor:'The UTAV takes the corner at 60. Worthington knows every county road in Tornado Alley.',
+    note:'Built by Steve Worthington. Designed for intercepts in urban and suburban areas where standard rigs are too wide.',
+    xpBonus:52, moralBonus:34 },
+  { id:'tornado_puncher', name:'Tornado Puncher',
+    type:'Armored Intercept', cost:115, armor:5, probeSlots:2, dataBonus:4,
+    desc:'The Tornado Puncher. Low-slung armored intercept truck. Wedge-shaped nose deflects debris, hydraulic skirt seals the undercarriage. Built for head-on vortex engagement.',
+    flavor:'The Puncher drives straight into the wall cloud. The nose wedge parts the inflow like a bow wave.',
+    note:'Wedge nose design tested in wind tunnel. Debris deflection angle reduces direct impact force significantly.',
+    xpBonus:44, moralBonus:30 },
+  { id:'dominator_fore', name:'Dominator Fore',
+    type:'Armored Intercept', cost:125, armor:5, probeSlots:3, dataBonus:4,
+    desc:'Dominator Fore prototype. Early Dominator programme test vehicle. Steel-plated Ford F-series chassis, early anchor system, roof camera mount. Predecessor to Dominator 1.',
+    flavor:'The Fore creaks as the wind builds. Older steel, older anchors. Still holding.',
+    note:'Pre-production Dominator. Tested intercept concepts later refined in Dominator 1-3. Collector vehicle.',
+    xpBonus:46, moralBonus:30 },
+  { id:'subativ', name:'Subativ',
+    type:'Armored Intercept', cost:105, armor:4, probeSlots:3, dataBonus:3,
+    desc:'Subativ armored intercept vehicle. Subaru-based AWD platform with full armor overlay. Low center of gravity, AWD traction, probe rack. Unconventional but effective.',
+    flavor:'The Subativ grips the muddy field. AWD pulls through terrain that stops bigger rigs cold.',
+    note:'Subaru AWD base gives traction advantage in wet fields. Lower profile than truck-based interceptors.',
+    xpBonus:40, moralBonus:28 },
+  { id:'dominator_ford', name:'Dominator Ford',
+    type:'Armored Intercept', cost:130, armor:5, probeSlots:3, dataBonus:4,
+    desc:'Dominator Ford variant. Ford-chassis Dominator build. Heavy-duty F-350 platform, full armor, ground anchors, dual probe arms. Ford diesel torque for superior low-speed maneuverability.',
+    flavor:'Ford diesel grunt. You position the Dominator Ford in ankle-deep mud without hesitation.',
+    note:'Ford chassis variant of Dominator programme. Diesel torque preferred for low-speed intercept positioning.',
+    xpBonus:48, moralBonus:32 },
+  { id:'armadillo', name:'Armadillo Interceptor',
+    type:'Armored Intercept', cost:155, armor:6, probeSlots:3, dataBonus:4,
+    desc:'Armadillo Interceptor. Rounded armor shell inspired by the armadillo natural defense. Curved steel panels deflect rather than absorb debris. Low flat profile, anchor outriggers, sensor suite.',
+    flavor:'Debris pings off the curved Armadillo shell and flies over the roof. Perfect geometry.',
+    note:'Curved armor philosophy: deflect not absorb. Rounded shell sheds debris at oblique angles reducing impact energy.',
+    xpBonus:54, moralBonus:34 },
+  { id:'stormpiercer', name:'Stormpiercer / DOROTHY',
+    type:'Probe Deployment Rig', cost:170, armor:5, probeSlots:6, dataBonus:5,
+    desc:'Stormpiercer / DOROTHY probe deployment vehicle. Launches an array of sensor-equipped DOROTHY probes across the tornado inflow path. Inspired by the original Twister DOROTHY concept but fully realised.',
+    flavor:'DOROTHY probes fire from the launch rail. Seven sensors scatter across the inflow. The storm collects them.',
+    note:'DOROTHY probe rail fires 7 instrumented pods simultaneously. GPS tracks each one. Data recovered post-storm.',
+    xpBonus:60, moralBonus:38 },
+  { id:'titus', name:'TITUS',
+    type:'Armored Intercept', cost:185, armor:7, probeSlots:4, dataBonus:5,
+    desc:'TITUS Tornado Intercept Truck with Ultimate Survivability. Military-grade armor plating, active suspension, full NBC-style sealed crew compartment, six-point harness, titanium skid plates. EF4 rated.',
+    flavor:'TITUS locks down. Sealed crew compartment. The readouts confirm: tornado is on top of you.',
+    note:'TITUS military-derived design. Sealed crew compartment prevents debris intrusion. Positive pressure system.',
+    xpBonus:65, moralBonus:38 },
+  { id:'tornado_wrangler', name:'Tornado Wrangler',
+    type:'All-Terrain', cost:80, armor:3, probeSlots:4, dataBonus:3,
+    desc:'Tornado Wrangler Jeep-based chase rig. Lifted Wrangler with full cage, probe rack, sensor boom, off-road tires. Gets to places no other intercept vehicle can reach.',
+    flavor:'The Wrangler climbs the embankment. You position the boom perfectly. Nobody else can get here.',
+    note:'Jeep Wrangler agility opens intercept positions on rough terrain. Limited armor but maximum mobility.',
+    xpBonus:34, moralBonus:26 },
+  { id:'hurricane_heist_dom', name:'Hurricane Heist Dominator',
+    type:'Armored Intercept', cost:200, armor:7, probeSlots:4, dataBonus:5,
+    desc:'The Hurricane Heist Dominator. Movie-grade armored vehicle converted for real storm research. Full Dominator spec plus cinematic camera rigs, Hollywood-grade instrumentation, and the most aggressive exterior in the fleet.',
+    flavor:'The Hurricane Heist Dominator is a movie star that actually does the job. EF4 direct. Still rolling.',
+    note:'Based on the screen hero of the 2018 film The Hurricane Heist. Converted to full working research spec. Unique.',
+    xpBonus:68, moralBonus:40 },
+
+// ── CELEBRITY CHASERS ────────────────────────────────────────────────────
 ];
 
 const STORM_OUTCOMES = [
@@ -1397,6 +1460,8 @@ function stormChaserMenu() {
     if (ach.ef5) achList.push('EF5 SURVIVOR');
     if (ach.vet) achList.push('VETERAN CHASER');
     if (ach.celeb) achList.push('CELEBRITY SPOTTER');
+    if (ach.all_four) achList.push('THE WHOLE GANG');
+    if (ach.legendary) achList.push('★ FULL CONVOY LEGEND');
     if (achList.length) print('  Achievements: ' + achList.join(' | '), 'success');
   } else {
     print('  No storm vehicle acquired. Visit the Storm Equipment Depot.', 'danger');
@@ -1411,53 +1476,115 @@ function stormChaserMenu() {
   ]);
 }
 
-// ── CELEBRITY CHASERS ────────────────────────────────────────────────────
 const CELEBRITY_ENCOUNTERS = [
+  // ── REED TIMMER ────────────────────────────────────────────────────────
   {
     name: 'Reed Timmer',
     vehicle: 'Dominator 3',
-    desc: 'Reed Timmer appears in the Dominator 3. He rolls his window down and shouts something about inflow temps.',
+    desc: 'Reed Timmer blasts past in the Dominator 3, horn blaring. He shouts inflow temps out the window.',
     quotes: [
       '"This is the most violent storm I have ever been in! LOOK at that debris cascade!"',
       '"We are RIGHT in the inflow notch — I can feel the pressure drop from here!"',
       '"The Dominator 3 is built for this. EF5 — bring it!"',
       '"Maximum intensity! Maximum intensity! Did you get that on camera?!"',
+      '"The rotation is UNBELIEVABLE right now — I have never seen it this violent!"',
     ],
     xpBonus: 20, moBonus: 18,
-    tip: 'Reed Timmer shares his CAPE readings. You adjust your intercept position accordingly.'
+    tip: 'Reed Timmer shares his CAPE readings on 146.52 MHz. You adjust your intercept position.'
   },
+  // ── RYAN SHEPHERD ──────────────────────────────────────────────────────
   {
     name: 'Ryan Shepherd',
     vehicle: 'TIV 2',
-    desc: 'The TIV 2 pulls alongside you. Ryan Shepherd waves from the armored cab and points at the wall cloud.',
+    desc: 'The TIV 2 pulls alongside. Ryan Shepherd waves from the armored cab and points at the wall cloud.',
     quotes: [
       '"She is cycling. Get your probes ready — this one is going to produce."',
       '"I have done this route before. Follow the TIV 2 and stay left of the meso."',
       '"The TIV ground spikes are deployed. I am not moving. Good luck out there."',
-      '"That rain curtain is hiding a wedge. I can see it on the radar. Go now."',
+      '"That rain curtain is hiding a wedge. I can see it on radar. Go now."',
+      '"Beautiful storm structure today. Position early and let it come to you."',
     ],
     xpBonus: 18, moBonus: 16,
     tip: 'Shepherd shares his radar feed via ham radio. Your intercept position improves dramatically.'
   },
+  // ── STEVE GREEN ────────────────────────────────────────────────────────
+  {
+    name: 'Steve Green',
+    vehicle: 'Tornado Attack Vehicle',
+    desc: 'The red Tornado Attack Vehicle rumbles up beside you. Steve Green leans out from the angular steel cab.',
+    quotes: [
+      '"That wedge is cycling hard. I am positioning on the south side. Follow my lead."',
+      '"Tornado Attack is holding. Red steel is doing its job. You should see the debris impacts."',
+      '"I built this rig for exactly this moment. EF4 — right where I want it."',
+      '"Keep your cool and trust your vehicle. The storm does not know what hit it."',
+    ],
+    xpBonus: 22, moBonus: 20,
+    tip: 'Steve Green shares positioning data from the Tornado Attack sensor mast. Your data bonus improves.'
+  },
+  // ── STEVE WORTHINGTON ──────────────────────────────────────────────────
+  {
+    name: 'Steve Worthington',
+    vehicle: 'Urban Tornado Assault Vehicle (UTAV)',
+    desc: 'The UTAV rolls up. Steve Worthington spots you and gives a thumbs-up from behind the armored windscreen.',
+    quotes: [
+      '"UTAV is locked and loaded. Urban terrain is no problem for this beast."',
+      '"I designed her for exactly this — tight streets, debris fields, direct engagement."',
+      '"She handles like a dream even at EF3. Worthington engineering. Guaranteed."',
+      '"You are positioned well. The UTAV is on the north flank. Dual intercept — go!"',
+    ],
+    xpBonus: 22, moBonus: 20,
+    tip: 'Worthington relays UTAV sensor data. Your combined dataset covers both flanks of the vortex.'
+  },
+  // ── RARE ENCOUNTERS ────────────────────────────────────────────────────
   {
     name: 'Reed Timmer',
     vehicle: 'Dominator 3',
-    desc: 'RARE ENCOUNTER: You are parked beside the Dominator 3 when a violent EF4 intercepts both vehicles.',
+    desc: 'RARE: You and the Dominator 3 are side by side when an EF4 wedge intercepts both vehicles.',
     quotes: [
       '"HOLD ON! HOLD ON! This is it — this is the one! Maximum! MAXIMUM!"',
     ],
     xpBonus: 45, moBonus: 35, rare: true,
-    tip: 'Dual intercept with Dominator 3. Your combined sensor array captures unprecedented data.'
+    tip: 'Dual Dominator 3 intercept. Combined sensor array captures unprecedented in-situ data.'
   },
   {
     name: 'Ryan Shepherd',
     vehicle: 'TIV 2',
-    desc: 'RARE: TIV 2 and your vehicle perform a coordinated dual intercept. Shepherd guides you by radio.',
+    desc: 'RARE: TIV 2 and your vehicle execute a coordinated dual intercept. Shepherd guides by radio.',
     quotes: [
-      '"Copy that. TIV 2 is at north anchor. You take south. This storm is going to be spectacular."',
+      '"Copy that. TIV 2 is at north anchor. You take south. This is going to be spectacular."',
     ],
     xpBonus: 40, moBonus: 30, rare: true,
     tip: 'TIV 2 dual-intercept achieves coordinated pressure measurements across the vortex diameter.'
+  },
+  {
+    name: 'Steve Green',
+    vehicle: 'Tornado Attack Vehicle',
+    desc: 'RARE: The Tornado Attack Vehicle and your rig intercept an EF5 simultaneously. Steve Green is on the radio.',
+    quotes: [
+      '"Red is holding. Steel is holding. This is history. Are you getting this data?!"',
+    ],
+    xpBonus: 50, moBonus: 38, rare: true,
+    tip: 'Steve Green and your rig achieve a dual EF5 intercept. The combined pressure trace is historic.'
+  },
+  {
+    name: 'Steve Worthington',
+    vehicle: 'Urban Tornado Assault Vehicle (UTAV)',
+    desc: 'RARE: The UTAV pulls into formation with your vehicle. Worthington initiates a coordinated two-vehicle probe deployment.',
+    quotes: [
+      '"UTAV is anchored 300 metres north. You take south anchor. Deploy everything on my mark. Three. Two. One. MARK."',
+    ],
+    xpBonus: 42, moBonus: 32, rare: true,
+    tip: 'UTAV dual-intercept. Worthington engineering meets your setup. Full inflow-to-outflow dataset achieved.'
+  },
+  {
+    name: 'All Four Chasers',
+    vehicle: 'Full Convoy (TIV 2, Dominator 3, Tornado Attack, UTAV)',
+    desc: 'LEGENDARY: All four celebrity chase vehicles converge on your position simultaneously. The storm of the century.',
+    quotes: [
+      '"Four vehicles. One EF5. This is a science moment. Everybody hold. Hold. HOLD!"',
+    ],
+    xpBonus: 120, moBonus: 60, rare: true, legendary: true,
+    tip: 'LEGENDARY encounter. Four-vehicle coordinated EF5 intercept. The most data ever collected from a single tornado.'
   },
 ];
 
@@ -1469,7 +1596,7 @@ function stormChase() {
     setTimeout(stormChaserMenu, 1200);
     return;
   }
-  // Start the mini-game: choose today's setup
+  // Start the mini-game: choose todays setup
   const sv = STORM_VEHICLES.find(v => v.name === G.activeStormVehicle);
   G._chase = {
     sv: sv,
@@ -1552,10 +1679,15 @@ function stormChase_intercept() {
   // Celebrity encounter check (~25% chance, rare ~5%)
   const celeb_roll = Math.random();
   let celeb = null;
-  if (celeb_roll < 0.05) {
-    celeb = CELEBRITY_ENCOUNTERS.filter(e => e.rare)[Math.floor(Math.random() * 2)];
-  } else if (celeb_roll < 0.25) {
-    celeb = CELEBRITY_ENCOUNTERS.filter(e => !e.rare)[Math.floor(Math.random() * 2)];
+  const legendaryPool = CELEBRITY_ENCOUNTERS.filter(e => e.legendary);
+  const rarePool      = CELEBRITY_ENCOUNTERS.filter(e => e.rare && !e.legendary);
+  const normalPool    = CELEBRITY_ENCOUNTERS.filter(e => !e.rare);
+  if (celeb_roll < 0.01) {
+    celeb = legendaryPool[Math.floor(Math.random() * legendaryPool.length)];
+  } else if (celeb_roll < 0.06) {
+    celeb = rarePool[Math.floor(Math.random() * rarePool.length)];
+  } else if (celeb_roll < 0.28) {
+    celeb = normalPool[Math.floor(Math.random() * normalPool.length)];
   }
   if (celeb) {
     printDivider();
@@ -1728,8 +1860,24 @@ function stormChase_outcome(ef, c, eb, direct_hit, vehicle_lost) {
   }
   if (G.celebEncounters && G.celebEncounters.length >= 2 && !G.stormAchievements.celeb) {
     G.stormAchievements.celeb = true;
-    print('  ★ ACHIEVEMENT: CELEBRITY SPOTTER — met Reed and Ryan!', 'success');
+    print('  ★ ACHIEVEMENT: CELEBRITY SPOTTER — met the famous chasers!', 'success');
     G.morale = Math.min(100, G.morale + 10);
+  }
+  if (G.celebEncounters) {
+    const meReed = G.celebEncounters.some(e => e.name === 'Reed Timmer');
+    const meRyan = G.celebEncounters.some(e => e.name === 'Ryan Shepherd');
+    const meSteve = G.celebEncounters.some(e => e.name === 'Steve Green');
+    const meWorth = G.celebEncounters.some(e => e.name === 'Steve Worthington');
+    if (meReed && meRyan && meSteve && meWorth && !G.stormAchievements.all_four) {
+      G.stormAchievements.all_four = true;
+      print('  ★ ACHIEVEMENT: THE WHOLE GANG — met all four celebrity chasers!', 'success');
+      G.morale = Math.min(100, G.morale + 20); G.xp += 30;
+    }
+    if (G.celebEncounters.some(e => e.legendary) && !G.stormAchievements.legendary) {
+      G.stormAchievements.legendary = true;
+      print('  ★ LEGENDARY ACHIEVEMENT: FULL CONVOY — all four chasers at once!', 'success');
+      G.morale = Math.min(100, G.morale + 40); G.xp += 80;
+    }
   }
   updateStats();
   printBlank();
@@ -11754,22 +11902,124 @@ function saveLoadMenu() {
     try {
       const s = JSON.parse(raw);
       const ts = s._savedAt ? new Date(s._savedAt).toLocaleString() : 'Unknown';
-      print('  \u2611 Save file found:', 'success');
+      print('  \u2611 Browser save found:', 'success');
       print(`    Call: ${s.callsign || '?'}  |  License: ${(s.licenseNames||['?'])[s.license||0]}`, 'success');
       print(`    QSOs: ${s.qsoCount||0}  |  XP: ${s.xp||0}  |  Saved: ${ts}`, 'success');
     } catch(e) {
       print('  Save file found but unreadable.', 'danger');
     }
   } else {
-    print('  No save file found.', 'system');
+    print('  No browser save found.', 'system');
   }
   printBlank();
 
   printChoices([
-    { label: 'Save game now',            fn: saveGame  },
-    { label: raw ? 'Load saved game' : 'Load (no save found)', fn: raw ? loadGame : saveLoadMenu },
-    { label: 'Delete save file',         fn: deleteSave },
-    { label: 'Back to shack',            fn: mainMenu  },
+    { label: '\u2713 Save game (browser)',          fn: saveGame  },
+    { label: raw ? '\u2191 Load saved game' : 'Load (no save found)', fn: raw ? loadGame : saveLoadMenu },
+    { label: '\u2193 Export save file (.json)',    fn: exportSave },
+    { label: '\u2191 Import save file (.json)',    fn: importSave },
+    { label: '\u2717 Delete save file',            fn: deleteSave },
+    { label: 'Back to shack',                      fn: mainMenu  },
+  ]);
+}
+
+function exportSave() {
+  const saveData = Object.assign({}, G, { _savedAt: new Date().toISOString(), _version: '1.0' });
+  delete saveData.choices;
+  delete saveData.inputCallback;
+  try {
+    const json  = JSON.stringify(saveData, null, 2);
+    const blob  = new Blob([json], { type: 'application/json' });
+    const url   = URL.createObjectURL(blob);
+    const ts    = new Date().toISOString().replace(/[:.]/g,'-').slice(0,19);
+    const fname = `hamquest-${G.callsign || 'save'}-${ts}.json`;
+    const a     = document.createElement('a');
+    a.href = url;
+    a.download = fname;
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => { URL.revokeObjectURL(url); document.body.removeChild(a); }, 1000);
+    printBlank();
+    print('  \u2713 EXPORT COMPLETE', 'success');
+    print('  File: ' + fname, 'amber');
+    print('  Save this file to re-import on any device or browser.', 'system');
+  } catch(e) {
+    print('  \u2717 Export failed: ' + e.message, 'danger');
+  }
+  setTimeout(saveLoadMenu, 1800);
+}
+
+function importSave() {
+  printBlank();
+  printDivider();
+  print('  \u2191 IMPORT SAVE FILE', 'header');
+  printDivider();
+  printBlank();
+  print('  Select a .json save file exported from Ham Quest.', 'system');
+  print('  Your current progress will be replaced.', 'amber');
+  printBlank();
+
+  // Create hidden file input and trigger it
+  let fileInput = document.getElementById('save-file-input');
+  if (!fileInput) {
+    fileInput = document.createElement('input');
+    fileInput.type = 'file';
+    fileInput.id   = 'save-file-input';
+    fileInput.accept = '.json,application/json';
+    fileInput.style.display = 'none';
+    document.body.appendChild(fileInput);
+  }
+
+  fileInput.onchange = function(e) {
+    const file = e.target.files[0];
+    if (!file) { print('  No file selected.', 'system'); return; }
+
+    const reader = new FileReader();
+    reader.onload = function(ev) {
+      try {
+        const saved = JSON.parse(ev.target.result);
+        // Validate it looks like a Ham Quest save
+        if (!saved.callsign && !saved.xp) {
+          print('  \u2717 File does not appear to be a Ham Quest save.', 'danger');
+          setTimeout(saveLoadMenu, 1200);
+          return;
+        }
+        const nonSerialKeys = ['choices','inputCallback','phase','awaitingInput','inputMode'];
+        Object.keys(saved).forEach(k => {
+          if (!nonSerialKeys.includes(k)) G[k] = saved[k];
+        });
+        G.phase = 'main';
+        G.awaitingInput = false;
+        G.inputMode = 'choice';
+        G.inputCallback = null;
+        G.choices = [];
+        // Also store to localStorage so auto-save works
+        const resave = Object.assign({}, saved, { _savedAt: new Date().toISOString() });
+        delete resave.choices; delete resave.inputCallback;
+        localStorage.setItem(SAVE_KEY, JSON.stringify(resave));
+        updateStats();
+        printBlank();
+        print('  \u2713 IMPORT SUCCESSFUL', 'success');
+        print(`  Welcome back, ${G.callsign || 'operator'}!`, 'amber');
+        print(`  QSOs: ${G.qsoCount||0}  |  XP: ${G.xp||0}  |  License: ${(G.licenseNames||['Novice'])[G.license||0]}`, 'white');
+        const savedAt = saved._savedAt ? new Date(saved._savedAt).toLocaleString() : 'Unknown';
+        print('  Save dated: ' + savedAt, 'system');
+        setTimeout(mainMenu, 2000);
+      } catch(err) {
+        print('  \u2717 Import failed: ' + err.message, 'danger');
+        setTimeout(saveLoadMenu, 1200);
+      }
+      // Reset file input so same file can be re-selected
+      fileInput.value = '';
+    };
+    reader.readAsText(file);
+  };
+
+  fileInput.click();
+
+  // Show cancel option
+  printChoices([
+    { label: 'Cancel (back to save menu)', fn: saveLoadMenu },
   ]);
 }
 
