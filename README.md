@@ -7142,25 +7142,6 @@ const SATELLITES = [
       'Log time of pass and signal strength. CubeSat signals are weak — best near AOS/LOS.'
     ]
   },
-  {
-    id: 'jy1sat',
-    name: 'JY1-Sat',
-    full: 'JY1-Sat (Jordan AMSAT-UK)',
-    type: 'D-STAR/CW CubeSat',
-    uplink:   'No uplink — receive only',
-    downlink: '145.840 MHz D-STAR/CW',
-    toneHz:   'None',
-    licReq: 1,
-    xpReward: 16,
-    passLen: 10,
-    callsign: 'JY1-Sat',
-    dongleReq: false,
-    desc: 'Jordan/AMSAT-UK JY1-Sat. D-STAR transponder. Launched 2018.',
-    tips: [
-      'Downlink: 145.840 MHz D-STAR/CW. Verify current frequency on heavens-above.com.',
-      'CubeSat from Jordan (2018). Listen for CW beacon first.',
-      'Log time of pass and signal strength. CubeSat signals are weak — best near AOS/LOS.'
-    ]
   },
   {
     id: 'move2',
