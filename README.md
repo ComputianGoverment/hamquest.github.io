@@ -1,4 +1,4 @@
-[ham-radio-rpg (5).html](https://github.com/user-attachments/files/27289248/ham-radio-rpg.5.html)
+[ham-radio-rpg (7).html](https://github.com/user-attachments/files/27300542/ham-radio-rpg.7.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7142,6 +7142,25 @@ const SATELLITES = [
       'Log time of pass and signal strength. CubeSat signals are weak — best near AOS/LOS.'
     ]
   },
+  {
+    id: 'jy1sat',
+    name: 'JY1-Sat',
+    full: 'JY1-Sat (Jordan AMSAT-UK)',
+    type: 'D-STAR/CW CubeSat',
+    uplink:   'No uplink — receive only',
+    downlink: '145.840 MHz D-STAR/CW',
+    toneHz:   'None',
+    licReq: 1,
+    xpReward: 16,
+    passLen: 10,
+    callsign: 'JY1-Sat',
+    dongleReq: false,
+    desc: 'Jordan/AMSAT-UK JY1-Sat. D-STAR transponder. Launched 2018.',
+    tips: [
+      'Downlink: 145.840 MHz D-STAR/CW. Verify current frequency on heavens-above.com.',
+      'CubeSat from Jordan (2018). Listen for CW beacon first.',
+      'Log time of pass and signal strength. CubeSat signals are weak — best near AOS/LOS.'
+    ]
   },
   {
     id: 'move2',
@@ -11461,6 +11480,99 @@ const CIVILIAN_ITEMS = [
     flavor:'The HamClock glows. Gray-line map, solar flux, band conditions — all at a glance.',
     note:'HamClock by WB0OEW on Inovato-Q40 hardware. Real-time propagation dashboard.',
     xpBonus:12, moralBonus:10 },
+
+  // ══ CELLULAR / WIFI TOWER INFRASTRUCTURE ═════════════════════════════════
+  { id:'tower_4g_lte', brand:'Tower Infrastructure', name:'4G LTE Base Station Tower',
+    type:'Cellular Tower', cost:150000, rigBonus:5, antennaBonus:10, licReq:3,
+    desc:'Full 4G LTE macro base station. 60m lattice tower, 3-sector panel array, eNodeB cabinet, microwave backhaul dish, diesel generator backup, GPS timing unit. Licensed spectrum. 10 km coverage radius.',
+    flavor:'The 4G tower powers up. 10 km radius of LTE coverage. Every device in range connects instantly.',
+    note:'eNodeB 3-sector 20+20+20 MHz LTE. 2x2 MIMO. Ericsson RBS6000 or Nokia AirScale spec. Backhaul via licensed 23 GHz microwave. Requires Telco/carrier licence. Rigbonus 5, antenna +10.',
+    xpBonus:500, moralBonus:200 },
+
+  { id:'tower_5g_nr', brand:'Tower Infrastructure', name:'5G NR mmWave/Sub-6 Tower',
+    type:'Cellular Tower', cost:150000, rigBonus:5, antennaBonus:10, licReq:3,
+    desc:'Dual-band 5G New Radio base station. 40m monopole with 64T64R massive MIMO array for Sub-6 GHz (n78 3.5 GHz) plus 32-beam mmWave panel (n261 28 GHz). gNodeB with fronthaul CPRI over fibre. Beamforming. NSA/SA capable.',
+    flavor:'5G NR active. Massive MIMO locks 64 simultaneous beams. The mmWave panel lights up the intersection.',
+    note:'64T64R Sub-6 + n261 mmWave. Ericsson AIR 6449 or Huawei AAU5619 spec equivalent. gNB cloud-native. O-RAN fronthaul. Requires mmWave + mid-band spectrum licence. Highest antenna bonus in game.',
+    xpBonus:500, moralBonus:200 },
+
+  // ══ LEGACY CELLULAR TOWER INFRASTRUCTURE ═════════════════════════════════
+  { id:'tower_altai', brand:'Tower Infrastructure', name:'Altai Super Base Station (ABS)',
+    type:'Cellular Tower', cost:8000, rigBonus:3, antennaBonus:5, licReq:2,
+    desc:'Altai Technologies ABS-02S Super Base Station. Single-unit 802.11n WiFi base with 1-2 km urban range and up to 8 km rural. Roof-mount or tower-top. Backhaul via Ethernet. Self-contained unit — no separate antenna needed. Used in remote and developing-world deployments.',
+    flavor:'The Altai ABS powers up on the rooftop. Eight kilometres of WiFi coverage from one box.',
+    note:'Altai ABS covers entire villages with a single unit. 802.11n 2.4/5 GHz. Popular in Pacific Islands, Africa, remote Australia. No tower required — roof or pole mount suffices.',
+    xpBonus:60, moralBonus:40 },
+
+  { id:'tower_altai_c1', brand:'Tower Infrastructure', name:'Altai C1n Super Base Station',
+    type:'Cellular Tower', cost:10000, rigBonus:3, antennaBonus:6, licReq:2,
+    desc:'Altai C1n upgrade. Dual-band 802.11n with enhanced smart antenna system. 4 km urban, 12 km rural LOS range. PoE powered. Manages 256 concurrent clients. 300 Mbps throughput. Weatherproof IP67.',
+    flavor:'Twelve kilometres of 802.11n from a single IP67 unit on a 10m pole. The village is online.',
+    note:'Altai C1n smart antenna suppresses interference. Ideal for rural broadband where fibre is unavailable. Popular with ISPs in Asia-Pacific.',
+    xpBonus:75, moralBonus:45 },
+
+  { id:'tower_1g_amps', brand:'Tower Infrastructure', name:'1G AMPS Cell Tower (Advanced Mobile Phone System)',
+    type:'Cellular Tower', cost:5000, rigBonus:2, antennaBonus:4, licReq:2,
+    desc:'Original 1G AMPS analogue cellular tower. 800 MHz band, 30 kHz FM channels, FDMA. Omnidirectional fibreglass whip antennas on 40m guyed mast. MTSO connection via copper T1. Covers approx 25 km radius. Historic — AMPS decommissioned in USA 2008.',
+    flavor:'The AMPS tower hisses with analogue FM. Every call unencrypted. You can hear the neighbours.',
+    note:'AMPS 800 MHz analogue. No encryption whatsoever — any scanner can decode calls. Decommissioned US 2008, Canada 2007. Rare operating examples now in museums and ham radio collections.',
+    xpBonus:45, moralBonus:35 },
+
+  { id:'tower_1g_nmt', brand:'Tower Infrastructure', name:'1G NMT-450/900 Tower (Nordic Mobile Telephone)',
+    type:'Cellular Tower', cost:5500, rigBonus:2, antennaBonus:4, licReq:2,
+    desc:'NMT Nordic Mobile Telephone 1G tower. 450 or 900 MHz analogue FDMA. Used across Scandinavia, Eastern Europe, Russia. Directional panel antennas on 35m lattice mast. NMT-450 range up to 70 km via high-gain panels.',
+    flavor:'NMT-450. 70 km range from a single site. The Soviets loved this technology for rural coverage.',
+    note:'NMT pioneered automatic roaming between countries in 1981 — first international cellular roaming. NMT-450 still has licensed operators in some former Soviet states.',
+    xpBonus:42, moralBonus:32 },
+
+  { id:'tower_1g_tacs', brand:'Tower Infrastructure', name:'1G TACS Tower (Total Access Communication System)',
+    type:'Cellular Tower', cost:4800, rigBonus:2, antennaBonus:3, licReq:2,
+    desc:'TACS analogue 1G tower. UK/Europe variant of AMPS. 890-960 MHz, 25 kHz channels. Used in UK, Ireland, Italy, Spain, Austria. Panel antennas on 30m mast. BT Cellnet and Vodafone UK used TACS from 1985.',
+    flavor:'TACS tower on a British hillside. You catch a fragment of an unencrypted analogue call. Classic.',
+    note:'TACS decommissioned UK 2000. ETACS extended variant added 40 MHz of channels. Princess Diana conversations famously intercepted on TACS scanners in 1990s.',
+    xpBonus:40, moralBonus:30 },
+
+  { id:'tower_2g_gsm', brand:'Tower Infrastructure', name:'2G GSM BTS Tower (900/1800 MHz)',
+    type:'Cellular Tower', cost:25000, rigBonus:4, antennaBonus:6, licReq:2,
+    desc:'GSM 2G Base Transceiver Station. 900 or 1800 MHz, 200 kHz TDMA, 8 timeslots per carrier. Typical 2-4 TRX per sector, 3-sector site. 30m monopole or rooftop. Ericsson RBS 2000 or Nokia MetroSite spec. Still active globally for IoT and fallback voice.',
+    flavor:'GSM BTS online. Eight timeslots per carrier. The neighbourhood pings the BCCH immediately.',
+    note:'GSM BTS still operates in 180+ countries as of 2025. IoT SIM cards (M2M) rely on it. A5/1 encryption cracked — avoid for sensitive calls. Ericsson RBS2000 workhorses still running.',
+    xpBonus:120, moralBonus:70 },
+
+  { id:'tower_2g_cdma', brand:'Tower Infrastructure', name:'2G CDMA IS-95 BTS Tower (850/1900 MHz)',
+    type:'Cellular Tower', cost:28000, rigBonus:4, antennaBonus:6, licReq:2,
+    desc:'IS-95 cdmaOne 2G CDMA Base Station. 850 or 1900 MHz, 1.25 MHz spread spectrum, soft handoff. Qualcomm CDMA technology. Motorola SC series or Lucent CDMA2000 BTS. Used by early Verizon and Sprint. Capacity advantage over GSM in high-density areas.',
+    flavor:'CDMA IS-95 pilot channel acquired. Soft handoff active on three sectors simultaneously.',
+    note:'IS-95 CDMA uses spread spectrum — harder to intercept than GSM. Soft handoff gives better coverage at cell edges. Evolved to CDMA2000 EV-DO for data.',
+    xpBonus:125, moralBonus:70 },
+
+  { id:'tower_2g_gprs', brand:'Tower Infrastructure', name:'2G GPRS/EDGE Data Tower Upgrade',
+    type:'Cellular Tower', cost:15000, rigBonus:3, antennaBonus:5, licReq:2,
+    desc:'GPRS/EDGE upgrade for existing GSM BTS. GPRS adds packet data to GSM (114 kbps). EDGE Enhanced Data Rates adds 8PSK modulation (384 kbps). PCU (Packet Control Unit) cabinet adds to existing BTS. Widely deployed 2001-2010.',
+    flavor:'GPRS packet switched. 114 kbps on the best days. Enough for WAP pages and MMS.',
+    note:'GPRS was 2.5G — first mobile internet. EDGE (2.75G) improved to 384 kbps. Both still used for IoT/M2M globally in 2025. Upgrade requires existing GSM BTS.',
+    xpBonus:80, moralBonus:45 },
+
+  { id:'tower_3g_wcdma', brand:'Tower Infrastructure', name:'3G WCDMA/UMTS Node B Tower',
+    type:'Cellular Tower', cost:55000, rigBonus:4, antennaBonus:7, licReq:3,
+    desc:'3G UMTS Node B base station. 2100 MHz (EU) or 850/1900 MHz (US), 5 MHz WCDMA channels. RNC (Radio Network Controller) manages handoff. 3 sectors, 2x2 MIMO optional. Ericsson RBS3000/3900 or Nokia BTS3000 spec. 14.4 Mbps HSDPA. Used for voice VoIP fallback 2025.',
+    flavor:'WCDMA Node B synced. HSDPA 14 Mbps active. The smartphone connects and loads a real webpage.',
+    note:'WCDMA still mandatory for VoLTE fallback in many networks. IMS architecture for voice. Node B decommission ongoing but not complete globally. 2100 MHz band still licensed.',
+    xpBonus:200, moralBonus:100 },
+
+  { id:'tower_3g_cdma2000', brand:'Tower Infrastructure', name:'3G CDMA2000 1x/EV-DO BTS Tower',
+    type:'Cellular Tower', cost:58000, rigBonus:4, antennaBonus:7, licReq:3,
+    desc:'CDMA2000 3G base station. 1xRTT for voice + EV-DO Rev A for data (3.1 Mbps down, 1.8 Mbps up). 850/1900 MHz 1.25 MHz spread spectrum. Motorola BSS or Nortel CDMA BTS. Sprint and Verizon primary 3G technology. Deployed 2000-2022.',
+    flavor:'EV-DO Rev A handshake complete. 3.1 Mbps downlink. In 2003 this felt like the future.',
+    note:'CDMA2000 EV-DO Rev A delivered best 3G data speeds in its era. Verizon shut down CDMA network 31 Dec 2022. Sprint (T-Mobile) shutdown 2022. Towers now repurposed for Band 71/n71.',
+    xpBonus:210, moralBonus:100 },
+
+  { id:'tower_3g_hsdpa', brand:'Tower Infrastructure', name:'3G HSPA+/DC-HSPA Tower (21/42 Mbps)',
+    type:'Cellular Tower', cost:65000, rigBonus:4, antennaBonus:7, licReq:3,
+    desc:'HSPA+ evolved 3G tower. Dual-Carrier DC-HSPA 42 Mbps downlink, 11 Mbps uplink. 2x2 MIMO. Called 3.75G or 4G by some operators (controversially). Ericsson RBS 6000 HSPA+ or Nokia Flexi BTS. Still used as 4G coverage gap filler in rural areas 2025.',
+    flavor:'DC-HSPA 42 Mbps. Marketing calls it 4G. The antenna engineers call it 3G with lipstick. Works fine.',
+    note:'HSPA+ 42 Mbps genuinely fast for its era. Many operators used it as interim before LTE rollout. Still active in rural areas globally where LTE deployment remains incomplete.',
+    xpBonus:220, moralBonus:110 },
 
 ];
 
