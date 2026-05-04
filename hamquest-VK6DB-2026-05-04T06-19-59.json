@@ -1,0 +1,2989 @@
+{
+  "callsign": "VK6DB",
+  "license": 3,
+  "licenseNames": [
+    "Novice",
+    "Technician",
+    "General",
+    "Amateur Extra"
+  ],
+  "xp": 72,
+  "xpNext": 12921,
+  "morale": 100,
+  "battery": 91,
+  "cw": 10,
+  "antenna": 10,
+  "radio": 5,
+  "prop": 2,
+  "qsoCount": 316,
+  "inventory": [
+    "Handheld radio",
+    "Dipole",
+    "Logbook",
+    "1976 Ford Pinto",
+    "VHF/UHF Radio",
+    "Discone",
+    "HF Transceiver",
+    "Yagi-Uda",
+    "Amplifier",
+    "Phased Array",
+    "RTL-SDR Blog V4 Dongle",
+    "Luneburg Lens",
+    "Airspy Mini SDR",
+    "FUNcube Dongle Pro+",
+    "HackRF One",
+    "Hummer H1 (Military M998)",
+    "DPRK Red Phone (Supreme Command Direct Line)",
+    "DPRK Type-70 Cipher Machine",
+    "DPRK Encrypted Telephone Terminal",
+    "DPRK Line Encryption Device",
+    "DPRK Military Paging System",
+    "KPA Morse Key and Sounder Set",
+    "KPA Military Fax Machine",
+    "KPA Teletype Terminal (T-100 Clone)",
+    "Kwangmyong Intranet Terminal",
+    "KPA Military Automatic Exchange",
+    "KPA 6-Line Field Switchboard",
+    "KPA Type-88 Field Telephone",
+    "KPA TA-57 Copy (Field Telephone)",
+    "P-193 Trunk Line Amplifier",
+    "P-180 Wideband Crypto Modem",
+    "PSKOV PSTN Interface Unit",
+    "ISS 1:100 Scale Model (Desk Display)",
+    "Coral Secure Telephone System",
+    "Fialka M-125 Cipher Teletype",
+    "ZAS Cryptographic Telephone Terminal",
+    "VCh Government Secure Telephone",
+    "P-274M Field Cable (500m drum)",
+    "P-244T Wire Layer Vehicle Reel",
+    "AT-3030 Automatic Exchange (30-line)",
+    "PAT-74 Portable Automatic Telephone Exchange",
+    "P-194 Switchboard (50-line)",
+    "P-193M Field Switchboard (20-line)",
+    "TAS-M Field Switchboard (10-line)",
+    "SIGNAL-M Field Switchboard Kit",
+    "TA-88 Field Telephone (Late Cold War)",
+    "P-276 Field Telephone Set",
+    "P-174 Field Telephone",
+    "P-171 Field Telephone",
+    "TAP-M Telephone Apparatus",
+    "TAI-43 Field Telephone (WWII)",
+    "TA-57 Field Telephone",
+    "Jetstream JTPS45",
+    "Jetstream JTPS28M",
+    "Jetstream JT270MH",
+    "Kenworth W900 18-Wheeler",
+    "Hy-Gain TH-7DX Tri-Band Beam (1970s)",
+    "Hammarlund SP-600JX Receiver (1950)",
+    "AN/PRC-117F SATCOM Radio",
+    "M35A2 Deuce-and-a-Half (Surplus)",
+    "Radioddity DB25-D Dual Band HT",
+    "Yaesu FTDX10",
+    "Yaesu FTDX101D",
+    "YPS-FT710-USB USB Programming Set",
+    "Radio Today FT-710 Guide Book",
+    "Yaesu FT-710/SP-40 Dust Cover",
+    "SMB-209 Speaker Microphone",
+    "NIFTY FT-710 AESS Quick Reference",
+    "SP-40 External Speaker",
+    "Uniden ADV25-2 UHF Handheld (2-pack)",
+    "Converted School Bus (Skoolie)",
+    "Winnebago Brave (1978)",
+    "HamClock by Inovato (7in Touch)",
+    "Normal-Mode Helical",
+    "PIFA",
+    "Superantenna POTA Vertical",
+    "Active Integrated",
+    "Inverted-F (IFA)",
+    "W1OLD Signed Logbook (1952-1989)",
+    "Atlas 210X Compact HF Transceiver (1975)",
+    "Globe Scout 680A CW Transmitter (1958)",
+    "RCA BC-348 WWII Aircraft Receiver",
+    "Classic Inverted-V Dipole (Wire)",
+    "Collins 51J-4 HF Receiver (1956)",
+    "Heathkit DX-60B CW Transmitter (1962)",
+    "Kenwood TS-520S HF Transceiver (1976)",
+    "Homebrew Crystal-Controlled Transmitter",
+    "Hallicrafters S-38E (Budget Classic)",
+    "Collins R-4B SSB Receiver (1965)",
+    "Hallicrafters SX-28A Superheterodyne",
+    "Hallicrafters HQ-100 (1957)",
+    "Yaesu FT-450D",
+    "Yaesu FT-857D",
+    "Yaesu FT-897D",
+    "Yaesu FT-100D",
+    "Yaesu FT-991",
+    "Yaesu FT-3000M Mobile",
+    "Yaesu FT-8500",
+    "Yaesu FT-991A HF/VHF/UHF",
+    "Yaesu FTM-500DR Dual Band Mobile",
+    "M-90MS Mobile Hand Microphone",
+    "M-90D Hand Microphone (DTMF)",
+    "SSM-75E Clip Microphone",
+    "M-70 Hand Microphone",
+    "SCU-LAN10 LAN Remote Unit",
+    "M-1 Reference Microphone",
+    "MHG-1 Microphone Hanger",
+    "FH-2 Remote Control Head",
+    "Y-ACC-1 Accessory Cable Set",
+    "FC-40 Automatic Antenna Tuner",
+    "ATAS-25 Portable HF Antenna",
+    "ATAS-120A Active Tuning Antenna",
+    "YH-77STA Stereo Headphones",
+    "CT-39 CAT Interface Cable",
+    "ATBK-100 Automatic Antenna Coupler",
+    "M-100 Desktop Microphone",
+    "MARS MOD FT-710",
+    "Yaesu FT-710 FIELD",
+    "Yaesu FT-710 AESS",
+    "Yaesu FTM-500DR",
+    "Yaesu FTM-400XDR",
+    "Yaesu FT-991A",
+    "Yaesu FT-65",
+    "Yaesu FT-891",
+    "Racal RA3701 HF Receiver",
+    "Surplus Signal Generator (HP 8640)",
+    "Bulk RTL-SDR Dongles (5-pack)",
+    "RF Jammer Detector",
+    "Telephone Line Monitor (TAP)",
+    "AN/PRC-25 Military Portable Radio",
+    "AN/PRC-77 Military Portable Radio",
+    "R-390A HF Receiver (Mil Surplus)",
+    "Surplus Spectrum Analyser (HP 8558)",
+    "Surplus Frequency Counter (0-3 GHz)",
+    "Scanner with Cellular Enable",
+    "RF Linear Amplifier (no type acceptance)",
+    "Modified HT (TX unlock chip)",
+    "DPRK Apartment Intercom Speaker",
+    "DPRK Rotary Telephone (Domestic)",
+    "DPRK Portable Wire Radio (Moranbong)",
+    "DPRK Illegal VCR + Foreign Video Cache",
+    "DPRK Three-Revolution Wire Speaker",
+    "DPRK Street PA Loudspeaker Column",
+    "DPRK Mansudae Television (17 inch)",
+    "DPRK Naenara Computer Terminal",
+    "DPRK Revolutionary Alarm Clock Radio",
+    "DPRK USB Smuggle Drive"
+  ],
+  "location": "shack",
+  "freq": 14.219,
+  "activeMode": "SCN_tetra",
+  "activeAntenna": "PIFA",
+  "ownedAntennas": [
+    "Dipole",
+    "Discone",
+    "Yagi-Uda",
+    "Phased Array",
+    "Luneburg Lens",
+    "Hy-Gain TH-7DX Tri-Band Beam (1970s)",
+    "Hammarlund SP-600JX Receiver (1950)",
+    "Yaesu FTDX10",
+    "Yaesu FTDX101D",
+    "Normal-Mode Helical",
+    "PIFA",
+    "Superantenna POTA Vertical",
+    "Active Integrated",
+    "Inverted-F (IFA)",
+    "Atlas 210X Compact HF Transceiver (1975)",
+    "Classic Inverted-V Dipole (Wire)",
+    "Collins 51J-4 HF Receiver (1956)",
+    "Kenwood TS-520S HF Transceiver (1976)",
+    "Homebrew Crystal-Controlled Transmitter",
+    "Collins R-4B SSB Receiver (1965)",
+    "Hallicrafters SX-28A Superheterodyne",
+    "Hallicrafters HQ-100 (1957)",
+    "Yaesu FT-450D",
+    "Yaesu FT-857D",
+    "Yaesu FT-897D",
+    "Yaesu FT-100D",
+    "Yaesu FT-991",
+    "Yaesu FT-3000M Mobile",
+    "Yaesu FT-8500",
+    "Yaesu FT-991A HF/VHF/UHF",
+    "Yaesu FTM-500DR Dual Band Mobile",
+    "ATAS-25 Portable HF Antenna",
+    "ATAS-120A Active Tuning Antenna",
+    "MARS MOD FT-710",
+    "Yaesu FT-710 FIELD",
+    "Yaesu FT-710 AESS",
+    "R-390A HF Receiver (Mil Surplus)"
+  ],
+  "inContest": false,
+  "contestScore": 0,
+  "phase": "main",
+  "awaitingInput": false,
+  "inputMode": "choice",
+  "heat": 0,
+  "greyItems": [],
+  "vintageItems": [],
+  "activeRig": "DPRK USB Smuggle Drive",
+  "rigBonus": 1,
+  "satQSOs": 4,
+  "activeStormVehicle": "Dominator 3",
+  "ownedStormVehicles": [
+    "tiv3",
+    "tiv1",
+    "dominator3",
+    "dominator2",
+    "dominator1",
+    "tiv2",
+    "srv_dominator",
+    "tornado_attack",
+    "tornado_interceptor",
+    "dorothy_rig",
+    "dow1",
+    "dow2",
+    "dow7",
+    "rotate_radar",
+    "dow6",
+    "dow3",
+    "dow4",
+    "dow5",
+    "smart_r1",
+    "smart_r2",
+    "noxp",
+    "raxpol",
+    "twistex1",
+    "twistex2",
+    "twistex_turtle",
+    "turtle_mk2",
+    "sticknet1",
+    "sticknet2",
+    "sticknet_mesonet",
+    "mesonet1",
+    "mesonet2",
+    "vortex_probe"
+  ],
+  "tornadoCount": 28,
+  "stormData": 145,
+  "stormLog": [
+    {
+      "vehicle": "TIV 3 (Concept)",
+      "ef": "EF0",
+      "approach": "core",
+      "direct": false,
+      "xp": 46
+    },
+    {
+      "vehicle": "Dominator 1",
+      "ef": "EF0",
+      "approach": "core",
+      "direct": false,
+      "xp": 38
+    },
+    {
+      "vehicle": "Dominator 1",
+      "ef": "EF1",
+      "approach": "core",
+      "direct": false,
+      "xp": 53
+    },
+    {
+      "vehicle": "Mobile Mesonet Probe Vehicle 2",
+      "ef": "EF4",
+      "approach": "east",
+      "direct": false,
+      "xp": 65
+    },
+    {
+      "vehicle": "StickNet Probe 1",
+      "ef": "EF1",
+      "approach": "east",
+      "direct": false,
+      "xp": 53
+    },
+    {
+      "vehicle": "Dominator 3",
+      "ef": "EF0",
+      "approach": "east",
+      "direct": false,
+      "xp": 44
+    },
+    {
+      "vehicle": "DOW 5",
+      "ef": "EF1",
+      "approach": "south",
+      "direct": false,
+      "xp": 59
+    },
+    {
+      "vehicle": "DOW 4",
+      "ef": "EF2",
+      "approach": "south",
+      "direct": false,
+      "xp": 42
+    },
+    {
+      "vehicle": "Dominator 3",
+      "ef": "Mesocyclone",
+      "approach": "south",
+      "direct": false,
+      "xp": 17
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Squall line embedded tornado — hard to intercept",
+      "result": "Rain-wrapped tornado. You drove into it blind. Lucky escape."
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Rare EF5 wedge in open country",
+      "result": "Stovepipe tornado. Textbook. Probes read 100mb pressure drop"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "LP supercell — beautiful but tornado-rare",
+      "result": "Rain-wrapped tornado. You drove into it blind. Lucky escape."
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "LP supercell — beautiful but tornado-rare",
+      "result": "Wedge tornado. Half a mile wide. You hold position. Instrume"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Landspout over dry-line — weak but interesting",
+      "result": "Wedge tornado. Half a mile wide. You hold position. Instrume"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "LP supercell — beautiful but tornado-rare",
+      "result": "Lightning strike nearby. All electronics temporarily offline"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Squall line embedded tornado — hard to intercept",
+      "result": "Rope-out stage. You captured the final decay. Unusual thermo"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Landspout over dry-line — weak but interesting",
+      "result": "Landspout over the dry line. Not a supercell tornado but sti"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "LP supercell — beautiful but tornado-rare",
+      "result": "Rain-wrapped tornado. You drove into it blind. Lucky escape."
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "HP supercell — rain-wrapped, reduced visibility",
+      "result": "Rain-wrapped tornado. You drove into it blind. Lucky escape."
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "LP supercell — beautiful but tornado-rare",
+      "result": "Wedge tornado. Half a mile wide. You hold position. Instrume"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Landspout over dry-line — weak but interesting",
+      "result": "Beautiful supercell. No tornado developed. But the mesocyclo"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "LP supercell — beautiful but tornado-rare",
+      "result": "Satellite tornado forms beside the main vortex. Two intercep"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Landspout over dry-line — weak but interesting",
+      "result": "Satellite tornado forms beside the main vortex. Two intercep"
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Squall line embedded tornado — hard to intercept",
+      "result": "Narrow miss. Tornado shifted right at the last second. Near "
+    },
+    {
+      "vehicle": "Dominator 3",
+      "cond": "Landspout over dry-line — weak but interesting",
+      "result": "Rope-out stage. You captured the final decay. Unusual thermo"
+    }
+  ],
+  "celebEncounters": [
+    {
+      "name": "Steve Green",
+      "vehicle": "Tornado Attack Vehicle",
+      "rare": false
+    },
+    {
+      "name": "Reed Timmer",
+      "vehicle": "Dominator 3",
+      "rare": false
+    },
+    {
+      "name": "Steve Green",
+      "vehicle": "Tornado Attack Vehicle",
+      "rare": false
+    }
+  ],
+  "stormAchievements": {
+    "vet": true,
+    "celeb": true,
+    "ef5": true
+  },
+  "satLog": [
+    {
+      "sat": "ISS-APRS",
+      "call": "RS0ISS",
+      "loc": "Low Earth Orbit",
+      "report": "DIGI"
+    },
+    {
+      "sat": "AO-91",
+      "call": "G4FOX",
+      "loc": "England, UK",
+      "report": "53"
+    },
+    {
+      "sat": "SO-50",
+      "call": "ZL2SAT",
+      "loc": "New Zealand",
+      "report": "52"
+    },
+    {
+      "sat": "FUNcube-1",
+      "call": "SM5DIC",
+      "loc": "Sweden",
+      "report": "54"
+    }
+  ],
+  "funCubeOwned": true,
+  "funCubePro": true,
+  "sdrItems": [
+    "rtlsdr",
+    "airspy_mini",
+    "funcube_dongle_pro",
+    "hackrf"
+  ],
+  "civItems": [
+    "dprk_redphone",
+    "dprk_type70",
+    "dprk_encphone",
+    "dprk_linecrypto",
+    "dprk_pager",
+    "dprk_morse",
+    "dprk_fax",
+    "dprk_teletype",
+    "kwangmyong",
+    "kpa_exchange",
+    "kpa_sb6",
+    "kpa_type88",
+    "kpa_ta57",
+    "p193_amp",
+    "p180_modem",
+    "pskov_sub",
+    "coral_sec",
+    "fialka_m125",
+    "zas_crypto",
+    "vch_spravka",
+    "p274m_wire",
+    "p244_t",
+    "at3030",
+    "pat74",
+    "p194_sw",
+    "p193_sw",
+    "tas_m_sw",
+    "signal_sb",
+    "ta88_phone",
+    "p276_phone",
+    "p174_phone",
+    "p171_phone",
+    "tap_m",
+    "tai43",
+    "ta57",
+    "jetstream_jtps45",
+    "jetstream_jtps28",
+    "jetstream_jtmobile",
+    "w1old_kt34",
+    "w1old_sp600",
+    "skip_anprc117",
+    "radioddity_db25",
+    "yaesu_ftdx10",
+    "yaesu_ftdx101",
+    "yps_ft710_usb",
+    "radioday_ft710",
+    "ft710_cover",
+    "smb209",
+    "nifty_ft710",
+    "sp40_yaesu",
+    "uniden_adv25",
+    "hamclock_inovato",
+    "w1old_logbook",
+    "w1old_atlas",
+    "w1old_globe_scout",
+    "w1old_bc348",
+    "w1old_inverted_v",
+    "w1old_receiver51j",
+    "w1old_dx60",
+    "w1old_ts520",
+    "w1old_hk1",
+    "w1old_s38e",
+    "w1old_r4b",
+    "w1old_sx28",
+    "w1old_hq100",
+    "yaesu_ft450",
+    "yaesu_ft857",
+    "yaesu_ft897",
+    "yaesu_ft100d",
+    "yaesu_ft991",
+    "yaesu_ft3000m",
+    "yaesu_ft8500",
+    "yaesu_991a_2",
+    "yaesu_ftm500dr_2",
+    "m90ms",
+    "m90d_yaesu",
+    "ssm75e",
+    "m70_yaesu",
+    "scu_lan10",
+    "m1_ref_mic",
+    "mhg1_yaesu",
+    "fh2_yaesu",
+    "y_acc_1",
+    "fc40_yaesu",
+    "atas25",
+    "atas120a",
+    "yh77sta",
+    "ct39_yaesu",
+    "atbk_100",
+    "m100_yaesu",
+    "ft710_mars",
+    "yaesu_ft710_field",
+    "yaesu_ft710",
+    "yaesu_ftm500",
+    "yaesu_ftm400",
+    "yaesu_ft991a",
+    "yaesu_ft65",
+    "yaesu_ft891",
+    "skip_racal",
+    "skip_signal_gen",
+    "skip_rtlsdr_bulk",
+    "skip_jammer_det",
+    "skip_tap",
+    "skip_prc25",
+    "skip_prc77",
+    "skip_milsurp_rx",
+    "skip_spectrum",
+    "skip_freq_counter",
+    "skip_scanner_mod",
+    "skip_amp",
+    "skip_ht_mod",
+    "dprk_intercom_apt",
+    "dprk_rotarydial",
+    "dprk_portable_speaker",
+    "dprk_vcr",
+    "dprk_radiospeaker",
+    "dprk_public_address",
+    "dprk_tv_set",
+    "dprk_computer",
+    "dprk_alarm_clock",
+    "dprk_usb"
+  ],
+  "qsoLog": [
+    {
+      "call": "RS0ISS",
+      "loc": "ISS / Low Earth Orbit",
+      "mode": "APRS",
+      "report": "DIGI",
+      "band": "145.825 MHz",
+      "ts": "2026-04-03T10:39:05.237Z",
+      "type": "SAT",
+      "sat": "ISS-APRS"
+    },
+    {
+      "call": "G4FOX",
+      "loc": "England, UK",
+      "mode": "FM Transponder",
+      "report": "53",
+      "band": "435.250 MHz FM",
+      "ts": "2026-04-03T10:39:22.932Z",
+      "type": "SAT",
+      "sat": "AO-91"
+    },
+    {
+      "call": "ZL2SAT",
+      "loc": "New Zealand",
+      "mode": "FM Transponder",
+      "report": "52",
+      "band": "436.795 MHz FM",
+      "ts": "2026-04-03T10:39:33.037Z",
+      "type": "SAT",
+      "sat": "SO-50"
+    },
+    {
+      "call": "SM5DIC",
+      "loc": "Sweden",
+      "mode": "Linear Transponder + Telemetry",
+      "report": "54",
+      "band": "145.950–145.970 MHz SSB/CW",
+      "ts": "2026-04-03T10:46:20.207Z",
+      "type": "SAT",
+      "sat": "FUNcube-1"
+    }
+  ],
+  "milLog": [
+    {
+      "name": "F07 Number Station",
+      "freq": "Various HF",
+      "cls": "COMMS",
+      "nation": "Unknown",
+      "ts": "2026-04-03T21:59:53.541Z",
+      "desc": "Unidentified numbers station. Female voice reading groups of five-digit numbers in French.",
+      "sound": "Female voice, French language, structured 5-digit number groups. End of message: 0000."
+    },
+    {
+      "name": "STANAG 5065 Link-11",
+      "freq": "2-30 MHz HF / UHF",
+      "cls": "COMMS",
+      "nation": "NATO",
+      "ts": "2026-04-03T22:08:56.142Z",
+      "desc": "NATO Link-11 tactical data link. Ships and aircraft share tactical picture in real time.",
+      "sound": "16-tone FSK signal. Characteristic warbling sound instantly recognisable to naval operators."
+    },
+    {
+      "name": "HFDVL (HF Data and Voice Link)",
+      "freq": "Various HF",
+      "cls": "COMMS",
+      "nation": "Australia",
+      "ts": "2026-04-03T22:11:02.026Z",
+      "desc": "Australian Defence Force HF Data and Voice Link. STANAG-compatible ADF system.",
+      "sound": "ADF-specific framing around standard STANAG waveforms. Australian regional HF net."
+    },
+    {
+      "name": "PACTOR II/III/IV",
+      "freq": "Various HF",
+      "cls": "COMMS",
+      "nation": "Various/Germany",
+      "ts": "2026-04-07T01:44:36.309Z",
+      "desc": "PACTOR digital modes used by military, NGO, and winlink stations.",
+      "sound": "Distinctive handshake tones followed by rapid data transfer. PACTOR IV sounds like broadband hash."
+    },
+    {
+      "name": "Coquelet Teleprinter",
+      "freq": "Various HF",
+      "cls": "COMMS",
+      "nation": "France",
+      "ts": "2026-05-02T03:31:21.723Z",
+      "desc": "French military Coquelet teleprinter system. Multi-channel VFT over HF.",
+      "sound": "French military VFT tones. Regular structure, consistent channel spacing."
+    }
+  ],
+  "milSigsHeard": 5,
+  "satMonLog": [
+    {
+      "id": "squelch_one",
+      "name": "One with Squelch",
+      "freq": "Various HF/VHF",
+      "nation": "Unknown",
+      "cat": "Historic & Legacy",
+      "ts": "2026-04-03T22:14:16.580Z"
+    },
+    {
+      "id": "ariss_rep",
+      "name": "ISS Repeated Signal",
+      "freq": "145.800 MHz",
+      "nation": "International/ARISS",
+      "cat": "Historic & Legacy",
+      "ts": "2026-04-03T22:14:26.320Z"
+    },
+    {
+      "id": "apt_format",
+      "name": "APT (Automatic Picture Transmission)",
+      "freq": "137.500 / 137.620 MHz",
+      "nation": "USA/ITU standard",
+      "cat": "Historic & Legacy",
+      "ts": "2026-04-03T22:14:34.703Z"
+    },
+    {
+      "id": "soyuz_tel",
+      "name": "Soyuz-MS Telemetry",
+      "freq": "922.755 MHz S-band",
+      "nation": "Russia/Roscosmos",
+      "cat": "Historic & Legacy",
+      "ts": "2026-04-03T22:14:44.106Z"
+    },
+    {
+      "id": "transit5b5",
+      "name": "Transit 5B-5",
+      "freq": "150 / 400 MHz",
+      "nation": "USA/US Navy",
+      "cat": "Historic & Legacy",
+      "ts": "2026-04-03T22:14:54.283Z"
+    },
+    {
+      "id": "solrad7b",
+      "name": "SOLRAD 7B (1965-016D)",
+      "freq": "108.0 MHz",
+      "nation": "USA/US Navy",
+      "cat": "Military & Government",
+      "ts": "2026-04-03T22:15:06.762Z"
+    },
+    {
+      "id": "secor4",
+      "name": "SECOR 4 (EGRS 4)",
+      "freq": "Various ranging tones",
+      "nation": "USA",
+      "cat": "Military & Government",
+      "ts": "2026-04-03T22:15:14.514Z"
+    },
+    {
+      "id": "coriolis_tac",
+      "name": "CORIOLIS Tactical Direct Broadcast",
+      "freq": "SHF downlink",
+      "nation": "France/NATO",
+      "cat": "Military & Government",
+      "ts": "2026-04-03T22:15:29.354Z"
+    },
+    {
+      "id": "milstar_sat",
+      "name": "Milstar Satellite",
+      "freq": "20/44 GHz EHF / 7/8 GHz SHF crosslinks",
+      "nation": "USA",
+      "cat": "Military & Government",
+      "ts": "2026-04-03T22:15:34.821Z"
+    },
+    {
+      "id": "bluewalker3",
+      "name": "BlueWalker-3",
+      "freq": "700/850/1900/2100 MHz cellular",
+      "nation": "USA/AST SpaceMobile",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:16:06.143Z"
+    },
+    {
+      "id": "leosar",
+      "name": "LEOSAR Downlink",
+      "freq": "1544.5 MHz (SARSAT) / 406.028 MHz (beacon uplink)",
+      "nation": "International/COSPAS-SARSAT",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:16:19.160Z"
+    },
+    {
+      "id": "gonets",
+      "name": "Gonets",
+      "freq": "400.1 / 400.15 MHz",
+      "nation": "Russia",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:17:02.403Z"
+    },
+    {
+      "id": "siriusxm",
+      "name": "SiriusXM Satellite Radio",
+      "freq": "2320-2332.5 MHz (XM) / 2332.5-2345 MHz (Sirius)",
+      "nation": "USA",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:17:17.015Z"
+    },
+    {
+      "id": "orbcomm_tel",
+      "name": "OrbComm Mobile Telephony",
+      "freq": "148-150.05 MHz uplink",
+      "nation": "USA",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:17:22.901Z"
+    },
+    {
+      "id": "orbcomm",
+      "name": "Orbcomm",
+      "freq": "137-138 MHz / 148-150.05 MHz",
+      "nation": "USA",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:17:38.659Z"
+    },
+    {
+      "id": "iridium",
+      "name": "Iridium",
+      "freq": "1616-1626.5 MHz",
+      "nation": "USA",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:17:46.168Z"
+    },
+    {
+      "id": "inmarsat_c",
+      "name": "Inmarsat-C TDM",
+      "freq": "1530-1545 MHz downlink",
+      "nation": "UK/Inmarsat",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:17:52.030Z"
+    },
+    {
+      "id": "inmarsat_aero",
+      "name": "Inmarsat Aero",
+      "freq": "1545-1555 MHz (GES) / 1646.5-1656.5 MHz (AES)",
+      "nation": "UK/Inmarsat",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:17:57.123Z"
+    },
+    {
+      "id": "inmarsat_d",
+      "name": "Inmarsat-D(D+)",
+      "freq": "1530.0 / 1535.0 MHz",
+      "nation": "UK/Inmarsat",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:18:02.335Z"
+    },
+    {
+      "id": "isatdata",
+      "name": "IsatData Pro",
+      "freq": "L-band",
+      "nation": "UK/Inmarsat",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:18:11.285Z"
+    },
+    {
+      "id": "isatm2m",
+      "name": "Inmarsat IsatM2M",
+      "freq": "1626.5-1660.5 MHz uplink",
+      "nation": "UK/Inmarsat",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:18:33.875Z"
+    },
+    {
+      "id": "inmarsat_bgan",
+      "name": "Inmarsat BGAN",
+      "freq": "1518.725-1525.0 MHz downlink",
+      "nation": "UK/Inmarsat",
+      "cat": "Commercial & IoT",
+      "ts": "2026-04-03T22:18:44.003Z"
+    },
+    {
+      "id": "rnss",
+      "name": "RNSS (Generic)",
+      "freq": "1164-1215 / 1559-1610 MHz",
+      "nation": "Various",
+      "cat": "Navigation Constellations",
+      "ts": "2026-04-03T22:18:58.528Z"
+    },
+    {
+      "id": "gps",
+      "name": "GPS (Navstar)",
+      "freq": "L1 1575.42 MHz / L2 1227.60 MHz / L5 1176.45 MHz",
+      "nation": "USA",
+      "cat": "Navigation Constellations",
+      "ts": "2026-04-03T22:19:07.681Z"
+    },
+    {
+      "id": "irnss",
+      "name": "NavIC / IRNSS",
+      "freq": "L5 1176.45 MHz / S-band 2492.028 MHz",
+      "nation": "India",
+      "cat": "Navigation Constellations",
+      "ts": "2026-04-03T22:19:16.654Z"
+    },
+    {
+      "id": "qzss",
+      "name": "QZSS",
+      "freq": "L1 1575.42 MHz / L2 1227.60 MHz / L5 1176.45 MHz / L6 1278.75 MHz",
+      "nation": "Japan",
+      "cat": "Navigation Constellations",
+      "ts": "2026-04-03T22:20:03.770Z"
+    },
+    {
+      "id": "glonass",
+      "name": "GLONASS",
+      "freq": "L1 1598.0625-1605.375 MHz / L2 1242-1249 MHz",
+      "nation": "Russia",
+      "cat": "Navigation Constellations",
+      "ts": "2026-04-03T22:22:32.346Z"
+    },
+    {
+      "id": "beidou",
+      "name": "BeiDou (BDS)",
+      "freq": "B1 1561.098 MHz / B1C 1575.42 MHz / B2 1207.14 MHz / B3 1268.52 MHz",
+      "nation": "China",
+      "cat": "Navigation Constellations",
+      "ts": "2026-04-03T22:22:42.795Z"
+    },
+    {
+      "id": "galileo",
+      "name": "Galileo",
+      "freq": "E1 1575.42 MHz / E5a 1176.45 MHz / E5b 1207.14 MHz / E6 1278.75 MHz",
+      "nation": "EU",
+      "cat": "Navigation Constellations",
+      "ts": "2026-04-03T22:22:52.126Z"
+    },
+    {
+      "id": "aprizesat",
+      "name": "AprizeeSat",
+      "freq": "437.525 MHz",
+      "nation": "USA",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:23:20.789Z"
+    },
+    {
+      "id": "amsat_p3d",
+      "name": "AMSAT-P3D / AO-40",
+      "freq": "2401.323 MHz S2 / 435.848 MHz U",
+      "nation": "AMSAT International",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:28:58.602Z"
+    },
+    {
+      "id": "aist2d",
+      "name": "AIST-2D",
+      "freq": "435.215 MHz",
+      "nation": "Russia/Samara",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:31:11.086Z"
+    },
+    {
+      "id": "horyu4",
+      "name": "HORYU-4",
+      "freq": "437.375 MHz",
+      "nation": "Japan/Kyushu Tech",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:31:20.504Z"
+    },
+    {
+      "id": "delfic3",
+      "name": "Delfi-C3",
+      "freq": "145.870 MHz",
+      "nation": "Netherlands/TU Delft",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:34:17.946Z"
+    },
+    {
+      "id": "cas4b",
+      "name": "CAS-4B",
+      "freq": "145.910 MHz downlink / 435.280 MHz uplink",
+      "nation": "China/CAMSAT",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:34:25.434Z"
+    },
+    {
+      "id": "cas4a",
+      "name": "CAS-4A",
+      "freq": "145.835 MHz downlink / 435.180 MHz uplink",
+      "nation": "China/CAMSAT",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:34:34.817Z"
+    },
+    {
+      "id": "funcube1",
+      "name": "FUNcube-1 / AO-73",
+      "freq": "145.935 MHz BPSK / 145.950-145.970 MHz SSB",
+      "nation": "UK/AMSAT",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:34:48.897Z"
+    },
+    {
+      "id": "icarus",
+      "name": "ICARUS",
+      "freq": "401.18 MHz",
+      "nation": "Russia/Germany/DLR",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:35:38.735Z"
+    },
+    {
+      "id": "qo100",
+      "name": "QO-100 / Es'hail-2",
+      "freq": "10489.5-10490.0 MHz downlink / 2400.0 MHz uplink",
+      "nation": "Qatar/AMSAT",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:38:12.903Z"
+    },
+    {
+      "id": "proba12",
+      "name": "PROBA-1/2",
+      "freq": "2202.5 MHz / 8089.6 MHz",
+      "nation": "EU/ESA",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:40:09.205Z"
+    },
+    {
+      "id": "otp2",
+      "name": "OTP-2 Musical Beacon",
+      "freq": "437.525 MHz",
+      "nation": "Japan",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:40:20.426Z"
+    },
+    {
+      "id": "monitor2",
+      "name": "MONITOR-2 (RS-39S)",
+      "freq": "145.820 MHz",
+      "nation": "Russia",
+      "cat": "Amateur & CubeSat",
+      "ts": "2026-04-03T22:40:25.520Z"
+    },
+    {
+      "id": "lrpt",
+      "name": "Low Rate Picture Transmission",
+      "freq": "137.1 / 137.9 MHz",
+      "nation": "Russia",
+      "cat": "Weather & Earth Obs",
+      "ts": "2026-04-03T22:40:55.978Z"
+    },
+    {
+      "id": "noaa_apt",
+      "name": "NOAA APT",
+      "freq": "137.500 / 137.620 MHz",
+      "nation": "USA",
+      "cat": "Weather & Earth Obs",
+      "ts": "2026-04-26T07:54:43.213Z"
+    },
+    {
+      "id": "noaa_dsb",
+      "name": "NOAA DSB",
+      "freq": "137.350 MHz",
+      "nation": "USA",
+      "cat": "Weather & Earth Obs",
+      "ts": "2026-04-26T07:54:51.900Z"
+    },
+    {
+      "id": "noaa_hrpt",
+      "name": "NOAA HRPT",
+      "freq": "1698.0 / 1702.5 / 1707.0 MHz",
+      "nation": "USA",
+      "cat": "Weather & Earth Obs",
+      "ts": "2026-04-26T07:55:02.633Z"
+    }
+  ],
+  "scanLog": [
+    {
+      "id": "lojack",
+      "name": "LoJack (Vehicle Tracking)",
+      "freq": "173.075 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/UK",
+      "ts": "2026-03-30T05:55:04.791Z"
+    },
+    {
+      "id": "mfj269c",
+      "name": "MFJ-269C Antenna Analyzer (Sweep)",
+      "freq": "0.1-230 / 415-470 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/MFJ Enterprises",
+      "ts": "2026-03-30T05:55:31.037Z"
+    },
+    {
+      "id": "portable_traffic_lights",
+      "name": "Portable Traffic Lights",
+      "freq": "433 / 868 MHz ISM",
+      "cat": "Data & Telemetry",
+      "nation": "Various",
+      "ts": "2026-03-30T05:55:53.067Z"
+    },
+    {
+      "id": "radiomodem_423875",
+      "name": "Radiomodem 423.875 MHz",
+      "freq": "423.875 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "Unknown/European",
+      "ts": "2026-03-30T05:56:03.094Z"
+    },
+    {
+      "id": "eotd_signal",
+      "name": "EOTD (End-of-Train Device)",
+      "freq": "457.9375 / 452.9375 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Rail",
+      "ts": "2026-03-30T05:56:16.774Z"
+    },
+    {
+      "id": "uk_amds",
+      "name": "UK AM Data System (UK-AMDS)",
+      "freq": "MW AM broadcast subcarrier",
+      "cat": "Data & Telemetry",
+      "nation": "UK/Ofcom",
+      "ts": "2026-03-30T05:56:25.266Z"
+    },
+    {
+      "id": "euro_scan",
+      "name": "EURO (European Paging Standard)",
+      "freq": "169.425 MHz (EU primary)",
+      "cat": "Data & Telemetry",
+      "nation": "Europe/ETSI",
+      "ts": "2026-03-30T05:56:36.770Z"
+    },
+    {
+      "id": "distress_beacon",
+      "name": "Distress Radiobeacon (Analog 121.5 MHz)",
+      "freq": "121.500 MHz / 243.000 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "International/COSPAS-SARSAT",
+      "ts": "2026-03-30T05:56:47.690Z"
+    },
+    {
+      "id": "dtmf_scan",
+      "name": "DTMF (Dual-Tone Multi-Frequency)",
+      "freq": "VoIP / PSTN audio band / HF/VHF RF",
+      "cat": "Data & Telemetry",
+      "nation": "International/Bell",
+      "ts": "2026-03-30T05:56:56.322Z"
+    },
+    {
+      "id": "nfm_voice",
+      "name": "NFM Voice (FM Narrow)",
+      "freq": "Various VHF/UHF",
+      "cat": "Voice Modes",
+      "nation": "Universal",
+      "ts": "2026-03-31T02:45:41.167Z"
+    },
+    {
+      "id": "wfm_voice",
+      "name": "WFM Voice (FM Wide)",
+      "freq": "88-108 MHz (broadcast) / 29-50 MHz (legacy)",
+      "cat": "Voice Modes",
+      "nation": "Universal",
+      "ts": "2026-03-31T02:45:48.106Z"
+    },
+    {
+      "id": "voice_inv",
+      "name": "Voice Inversion Scrambling",
+      "freq": "Various VHF/UHF/HF",
+      "cat": "Voice Modes",
+      "nation": "Universal",
+      "ts": "2026-03-31T02:46:00.776Z"
+    },
+    {
+      "id": "cb_radio_scan2",
+      "name": "CB Radio (11m Citizens Band)",
+      "freq": "26.965-27.405 MHz",
+      "cat": "Voice Modes",
+      "nation": "International",
+      "ts": "2026-03-31T02:46:12.651Z"
+    },
+    {
+      "id": "cb_radio_scan",
+      "name": "CB Radio (11m Citizens Band)",
+      "freq": "26.965-27.405 MHz (US) / 26.565-27.405 MHz (EU)",
+      "cat": "Voice Modes",
+      "nation": "International",
+      "ts": "2026-03-31T02:46:26.362Z"
+    },
+    {
+      "id": "ssb_voice_scan",
+      "name": "Single Sideband Voice (SSB)",
+      "freq": "Various HF amateur/commercial",
+      "cat": "Voice Modes",
+      "nation": "International",
+      "ts": "2026-03-31T02:46:36.857Z"
+    },
+    {
+      "id": "nfm_voice_scan",
+      "name": "NFM Voice (Narrow FM)",
+      "freq": "Various VHF/UHF",
+      "cat": "Voice Modes",
+      "nation": "International",
+      "ts": "2026-03-31T02:46:45.085Z"
+    },
+    {
+      "id": "hfdl_scan",
+      "name": "HFDL (HF Data Link)",
+      "freq": "HF aviation 2-22 MHz (17 channels)",
+      "cat": "Aviation & Marine",
+      "nation": "ICAO/International",
+      "ts": "2026-03-31T02:47:07.706Z"
+    },
+    {
+      "id": "amss_scan",
+      "name": "AMSS (Amplitude Modulation Signalling)",
+      "freq": "HF aviation bands",
+      "cat": "Aviation & Marine",
+      "nation": "ICAO/International",
+      "ts": "2026-03-31T02:47:17.405Z"
+    },
+    {
+      "id": "mdc4800",
+      "name": "MDC-4800",
+      "freq": "Various VHF/UHF (burst)",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Motorola",
+      "ts": "2026-03-31T02:47:46.156Z"
+    },
+    {
+      "id": "ctcss_dcs",
+      "name": "DCS (Digital Code Squelch)",
+      "freq": "Subaudible data 134.4 Hz clock",
+      "cat": "Data & Telemetry",
+      "nation": "Universal",
+      "ts": "2026-03-31T02:47:55.212Z"
+    },
+    {
+      "id": "kenwood_fleetsync",
+      "name": "Kenwood FleetSync",
+      "freq": "VHF/UHF licensed",
+      "cat": "Trunking Systems",
+      "nation": "Japan/Kenwood",
+      "ts": "2026-03-31T03:56:36.036Z"
+    },
+    {
+      "id": "hfgcs_scan",
+      "name": "HFGCS (HF Global Comms System)",
+      "freq": "4724/6739/8967/11175/13200/15016 kHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/USAF",
+      "ts": "2026-03-31T03:56:58.579Z"
+    },
+    {
+      "id": "chu_scan",
+      "name": "CHU (Canada Time Signal, Ottawa)",
+      "freq": "3330 / 7850 / 14670 kHz",
+      "cat": "Data & Telemetry",
+      "nation": "Canada/NRC",
+      "ts": "2026-03-31T03:57:10.948Z"
+    },
+    {
+      "id": "ascii_scan",
+      "name": "ASCII Data (HF Digital Text)",
+      "freq": "Various HF",
+      "cat": "Data & Telemetry",
+      "nation": "International",
+      "ts": "2026-03-31T03:57:18.899Z"
+    },
+    {
+      "id": "autocab",
+      "name": "Autocab MDT System",
+      "freq": "Various VHF/UHF",
+      "cat": "Public Safety & Dispatch",
+      "nation": "UK",
+      "ts": "2026-04-03T10:38:30.046Z"
+    },
+    {
+      "id": "gandalf_mdt",
+      "name": "Gandalf MDT",
+      "freq": "Various UHF",
+      "cat": "Public Safety & Dispatch",
+      "nation": "UK",
+      "ts": "2026-04-03T10:38:37.601Z"
+    },
+    {
+      "id": "dstar",
+      "name": "D-STAR",
+      "freq": "144/430/1200 MHz",
+      "cat": "Voice Modes",
+      "nation": "Japan/IARU",
+      "ts": "2026-04-03T10:42:48.797Z"
+    },
+    {
+      "id": "fusion",
+      "name": "Yaesu System Fusion / C4FM",
+      "freq": "144/430 MHz",
+      "cat": "Voice Modes",
+      "nation": "Japan/Yaesu",
+      "ts": "2026-04-03T10:45:01.825Z"
+    },
+    {
+      "id": "p25",
+      "name": "Project 25 (P25 / APCO-25)",
+      "freq": "136-174 / 380-512 / 764-869 MHz",
+      "cat": "Trunking Systems",
+      "nation": "USA/International",
+      "ts": "2026-04-03T10:45:27.330Z"
+    },
+    {
+      "id": "mpt1327",
+      "name": "MPT 1327",
+      "freq": "138-175 / 450-470 MHz",
+      "cat": "Trunking Systems",
+      "nation": "UK/Europe",
+      "ts": "2026-04-03T10:45:33.939Z"
+    },
+    {
+      "id": "tetra",
+      "name": "TETRA",
+      "freq": "380-400 / 410-430 / 450-470 / 870-876 MHz",
+      "cat": "Trunking Systems",
+      "nation": "ETSI/Europe/International",
+      "ts": "2026-04-03T10:47:12.085Z"
+    },
+    {
+      "id": "tetrapol",
+      "name": "Tetrapol",
+      "freq": "Various VHF/UHF",
+      "cat": "Trunking Systems",
+      "nation": "France/International",
+      "ts": "2026-04-03T10:47:23.164Z"
+    },
+    {
+      "id": "motorola_t2",
+      "name": "Motorola Type II (SmartNet)",
+      "freq": "136-174 / 406-512 / 806-870 MHz",
+      "cat": "Trunking Systems",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T10:47:30.484Z"
+    },
+    {
+      "id": "edacs",
+      "name": "EDACS (Enhanced Digital Access)",
+      "freq": "138-174 / 406-512 MHz",
+      "cat": "Trunking Systems",
+      "nation": "USA/GE/Ericsson",
+      "ts": "2026-04-03T10:48:00.140Z"
+    },
+    {
+      "id": "ltr",
+      "name": "Logic Trunked Radio (LTR)",
+      "freq": "138-174 / 406-512 MHz",
+      "cat": "Trunking Systems",
+      "nation": "USA/EF Johnson",
+      "ts": "2026-04-03T10:48:09.935Z"
+    },
+    {
+      "id": "iden",
+      "name": "iDEN (Integrated Digital Enhanced Network)",
+      "freq": "806-821 / 851-866 MHz",
+      "cat": "Trunking Systems",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T10:48:18.793Z"
+    },
+    {
+      "id": "opensky",
+      "name": "OpenSky",
+      "freq": "769-775 / 799-805 MHz",
+      "cat": "Trunking Systems",
+      "nation": "USA/Harris",
+      "ts": "2026-04-03T10:48:28.173Z"
+    },
+    {
+      "id": "nxdn",
+      "name": "NXDN",
+      "freq": "136-174 / 400-512 MHz",
+      "cat": "Trunking Systems",
+      "nation": "Japan/ICOM+Kenwood",
+      "ts": "2026-04-03T10:48:35.210Z"
+    },
+    {
+      "id": "dmr",
+      "name": "Digital Mobile Radio (DMR)",
+      "freq": "136-174 / 400-512 MHz",
+      "cat": "Digital Mobile Radio",
+      "nation": "ETSI/Universal",
+      "ts": "2026-04-03T10:49:18.323Z"
+    },
+    {
+      "id": "dpmr",
+      "name": "dPMR (Digital PMR)",
+      "freq": "446.1-446.2 MHz (dPMR446) + licensed bands",
+      "cat": "Digital Mobile Radio",
+      "nation": "ETSI/Europe",
+      "ts": "2026-04-03T10:49:24.335Z"
+    },
+    {
+      "id": "astro25",
+      "name": "Motorola ASTRO 25 HPD",
+      "freq": "136-174 / 380-512 / 764-870 MHz",
+      "cat": "Digital Mobile Radio",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T10:49:30.490Z"
+    },
+    {
+      "id": "securenet",
+      "name": "Motorola SECURENET",
+      "freq": "Various VHF/UHF",
+      "cat": "Digital Mobile Radio",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T10:50:21.325Z"
+    },
+    {
+      "id": "provoice",
+      "name": "ProVoice / EDACS ProVoice",
+      "freq": "138-174 / 406-512 MHz",
+      "cat": "Digital Mobile Radio",
+      "nation": "USA/Ericsson",
+      "ts": "2026-04-03T10:50:48.516Z"
+    },
+    {
+      "id": "ais",
+      "name": "AIS (Automatic Identification System)",
+      "freq": "161.975 / 162.025 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "IMO/ITU",
+      "ts": "2026-04-03T10:57:32.737Z"
+    },
+    {
+      "id": "ctcss",
+      "name": "CTCSS (Continuous Tone-Coded Squelch)",
+      "freq": "67.0-254.1 Hz subaudible",
+      "cat": "Data & Telemetry",
+      "nation": "Universal",
+      "ts": "2026-04-03T11:00:39.274Z"
+    },
+    {
+      "id": "rdlap",
+      "name": "RD-LAP (Radio Data Link Access Procedure)",
+      "freq": "806-870 MHz (SMRS/800 MHz)",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T11:01:06.034Z"
+    },
+    {
+      "id": "reflex",
+      "name": "ReFLEX",
+      "freq": "929-932 MHz (US paging)",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T11:01:15.567Z"
+    },
+    {
+      "id": "uhf_vls",
+      "name": "UHF Vehicle Location System",
+      "freq": "Various UHF",
+      "cat": "Data & Telemetry",
+      "nation": "Various",
+      "ts": "2026-04-03T11:01:29.636Z"
+    },
+    {
+      "id": "eurobalise_scan",
+      "name": "Eurobalise Train Beacon",
+      "freq": "27.095 MHz downlink / 4.234 MHz uplink",
+      "cat": "Data & Telemetry",
+      "nation": "Europe/Alstom",
+      "ts": "2026-04-03T11:01:54.729Z"
+    },
+    {
+      "id": "hf_trading120_scan",
+      "name": "HF Trading Link '120 Hz FMCW Idle'",
+      "freq": "Various HF",
+      "cat": "Data & Telemetry",
+      "nation": "Financial/International",
+      "ts": "2026-04-03T11:02:08.767Z"
+    },
+    {
+      "id": "hf_trading350_scan",
+      "name": "HF Trading Link '350 Hz Idle Tone'",
+      "freq": "Various HF",
+      "cat": "Data & Telemetry",
+      "nation": "Financial/International",
+      "ts": "2026-04-03T11:02:18.341Z"
+    },
+    {
+      "id": "hfdvl_scan",
+      "name": "HFDVL (HF Data & Voice Link)",
+      "freq": "Various HF",
+      "cat": "Data & Telemetry",
+      "nation": "International",
+      "ts": "2026-04-03T11:02:28.162Z"
+    },
+    {
+      "id": "nfc_scan",
+      "name": "NFC (Near Field Communication)",
+      "freq": "13.56 MHz ISM",
+      "cat": "Data & Telemetry",
+      "nation": "International/ISO",
+      "ts": "2026-04-03T11:02:57.073Z"
+    },
+    {
+      "id": "datawell_scan",
+      "name": "Datawell Buoy HF Link",
+      "freq": "HF maritime",
+      "cat": "Data & Telemetry",
+      "nation": "Netherlands/International",
+      "ts": "2026-04-03T11:03:24.790Z"
+    },
+    {
+      "id": "driftnet_scan",
+      "name": "Driftnet Buoy Radio Beacon",
+      "freq": "MF/HF maritime",
+      "cat": "Data & Telemetry",
+      "nation": "International/Fishing",
+      "ts": "2026-04-03T11:03:36.687Z"
+    },
+    {
+      "id": "vario_adc",
+      "name": "'Vario' Airplane Data Controller",
+      "freq": "VHF aviation data band",
+      "cat": "Data & Telemetry",
+      "nation": "Aviation/Various",
+      "ts": "2026-04-03T11:03:48.460Z"
+    },
+    {
+      "id": "berlin_160",
+      "name": "160.282 MHz Berlin (Unknown)",
+      "freq": "160.282 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "Germany/Berlin",
+      "ts": "2026-04-03T11:03:57.299Z"
+    },
+    {
+      "id": "ecg_telemetry",
+      "name": "ECG Telemetry (Medical)",
+      "freq": "608-614 MHz / 1395-1400 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "Medical/International",
+      "ts": "2026-04-03T11:04:13.286Z"
+    },
+    {
+      "id": "efr_teleswitch",
+      "name": "EFR Teleswitch (Smart Meter LF)",
+      "freq": "183.000 kHz",
+      "cat": "Data & Telemetry",
+      "nation": "Germany/Europe",
+      "ts": "2026-04-03T11:04:23.600Z"
+    },
+    {
+      "id": "goes_dcs",
+      "name": "GOES DCS (Data Collection System)",
+      "freq": "401.700 / 402.050 / 402.200 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/NOAA",
+      "ts": "2026-04-03T11:04:35.524Z"
+    },
+    {
+      "id": "snotel",
+      "name": "SNOTEL (Snow Telemetry)",
+      "freq": "400.000 MHz / 900 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/NRCS",
+      "ts": "2026-04-03T11:04:43.385Z"
+    },
+    {
+      "id": "scada_signal",
+      "name": "SCADA (Supervisory Control)",
+      "freq": "Various VHF/UHF/900 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "Industrial/Various",
+      "ts": "2026-04-03T11:04:55.264Z"
+    },
+    {
+      "id": "water_plant_tel",
+      "name": "Water Plant Telemetry",
+      "freq": "Licensed VHF/UHF",
+      "cat": "Data & Telemetry",
+      "nation": "Municipal/Various",
+      "ts": "2026-04-03T11:05:00.927Z"
+    },
+    {
+      "id": "water_tower_com",
+      "name": "Water Tower to Pump Telemetry",
+      "freq": "Licensed VHF/UHF",
+      "cat": "Data & Telemetry",
+      "nation": "Municipal/Various",
+      "ts": "2026-04-03T11:05:28.136Z"
+    },
+    {
+      "id": "vehicle_counting",
+      "name": "Vehicle Counting System",
+      "freq": "5.8 GHz / 433 MHz / loop sensor",
+      "cat": "Data & Telemetry",
+      "nation": "Municipal/Various",
+      "ts": "2026-04-03T11:05:37.640Z"
+    },
+    {
+      "id": "traffic_light_r09",
+      "name": "Traffic Light Control R09",
+      "freq": "433 MHz / IR",
+      "cat": "Data & Telemetry",
+      "nation": "Germany/Europe",
+      "ts": "2026-04-03T11:05:46.181Z"
+    },
+    {
+      "id": "road_maintenance_tel",
+      "name": "Road Coordination Telemetry",
+      "freq": "Various UHF",
+      "cat": "Data & Telemetry",
+      "nation": "Municipal/Various",
+      "ts": "2026-04-03T11:05:55.388Z"
+    },
+    {
+      "id": "john_deere_rtk",
+      "name": "John Deere RTK Radio 450",
+      "freq": "900 MHz ISM",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Deere",
+      "ts": "2026-04-03T11:06:10.454Z"
+    },
+    {
+      "id": "lrs_pager",
+      "name": "LRS Restaurant Pager",
+      "freq": "462-468 MHz GMRS/FRS area",
+      "cat": "Data & Telemetry",
+      "nation": "USA/LRS",
+      "ts": "2026-04-03T11:06:20.541Z"
+    },
+    {
+      "id": "wireless_hydrophone",
+      "name": "Wireless Hydrophone System (WHS)",
+      "freq": "Various UHF/HF telemetry",
+      "cat": "Data & Telemetry",
+      "nation": "Scientific/Naval",
+      "ts": "2026-04-03T11:06:40.022Z"
+    },
+    {
+      "id": "schneider_trio_e",
+      "name": "Schneider Trio E-Series Modem",
+      "freq": "Licensed VHF/UHF utility bands",
+      "cat": "Data & Telemetry",
+      "nation": "France/Schneider Electric",
+      "ts": "2026-04-03T11:06:47.836Z"
+    },
+    {
+      "id": "monaco_maap",
+      "name": "Monaco Enterprises MAAP Fire Alarm",
+      "freq": "Licensed UHF fire alarm band",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Monaco",
+      "ts": "2026-04-03T11:06:56.984Z"
+    },
+    {
+      "id": "federal_signal_msk",
+      "name": "Federal Signal Modem-MSK",
+      "freq": "Various licensed",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Federal Signal",
+      "ts": "2026-04-03T11:07:08.382Z"
+    },
+    {
+      "id": "ptc_signal",
+      "name": "PTC (Positive Train Control)",
+      "freq": "220-222 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/FRA",
+      "ts": "2026-04-03T11:07:36.937Z"
+    },
+    {
+      "id": "i_etms",
+      "name": "I-ETMS (Interoperable Train Management)",
+      "freq": "220-222 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Wabtec",
+      "ts": "2026-04-03T11:07:50.336Z"
+    },
+    {
+      "id": "dpu_railroad",
+      "name": "DPU (Distributed Power Unit)",
+      "freq": "220-222 MHz / 160-161 MHz AAR",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Rail",
+      "ts": "2026-04-03T11:08:01.473Z"
+    },
+    {
+      "id": "stp403_bus",
+      "name": "STP403 Bus PIT System",
+      "freq": "UHF bus telemetry band",
+      "cat": "Data & Telemetry",
+      "nation": "UK/Various",
+      "ts": "2026-04-03T11:08:14.629Z"
+    },
+    {
+      "id": "vdew_scan",
+      "name": "VDEW (German Utility Teleswitch)",
+      "freq": "150.000 kHz LF",
+      "cat": "Data & Telemetry",
+      "nation": "Germany/VDEW",
+      "ts": "2026-04-03T11:08:24.309Z"
+    },
+    {
+      "id": "eurobalise_scan2",
+      "name": "Eurobalise Train Beacon (ETCS)",
+      "freq": "27.095 MHz down / 4.234 MHz up",
+      "cat": "Data & Telemetry",
+      "nation": "Europe/Alstom-Siemens",
+      "ts": "2026-04-03T11:08:38.452Z"
+    },
+    {
+      "id": "p25_trunked",
+      "name": "P25 Trunked Systems",
+      "freq": "7/800 MHz public safety bands",
+      "cat": "Public Safety & Dispatch",
+      "nation": "USA/International",
+      "ts": "2026-04-03T11:08:58.642Z"
+    },
+    {
+      "id": "stargate_hpd",
+      "name": "Motorola ASTRO 25 HPD Stargate",
+      "freq": "806-870 MHz",
+      "cat": "Public Safety & Dispatch",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T11:09:06.444Z"
+    },
+    {
+      "id": "dvp",
+      "name": "DVP / DVP-XL Scrambling",
+      "freq": "Various VHF/UHF",
+      "cat": "Scrambling & Encryption",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T11:10:06.140Z"
+    },
+    {
+      "id": "p25_des",
+      "name": "P25 DES/AES Encrypted",
+      "freq": "Various P25 system frequencies",
+      "cat": "Scrambling & Encryption",
+      "nation": "USA",
+      "ts": "2026-04-03T11:10:17.707Z"
+    },
+    {
+      "id": "securenet_dvp",
+      "name": "SECURENET / DVP Digital Voice",
+      "freq": "Various VHF/UHF",
+      "cat": "Scrambling & Encryption",
+      "nation": "USA/Motorola",
+      "ts": "2026-04-03T11:10:27.438Z"
+    },
+    {
+      "id": "cv786_scan",
+      "name": "CV-786 Voice Scrambler",
+      "freq": "HF + VHF/UHF voice channels",
+      "cat": "Scrambling & Encryption",
+      "nation": "International",
+      "ts": "2026-04-03T11:10:36.172Z"
+    },
+    {
+      "id": "hc265_scan",
+      "name": "HC-265 Voice Scrambler",
+      "freq": "HF voice channels",
+      "cat": "Scrambling & Encryption",
+      "nation": "International",
+      "ts": "2026-04-03T11:10:46.399Z"
+    },
+    {
+      "id": "cry2001_scan",
+      "name": "CRY2001 Voice Scrambler",
+      "freq": "HF/VHF voice channels",
+      "cat": "Scrambling & Encryption",
+      "nation": "International",
+      "ts": "2026-04-03T11:10:54.331Z"
+    },
+    {
+      "id": "thales_sys3000",
+      "name": "Thales Systeme 3000 Scrambler",
+      "freq": "HF/VHF voice channels",
+      "cat": "Scrambling & Encryption",
+      "nation": "France/Thales",
+      "ts": "2026-04-03T11:12:03.389Z"
+    },
+    {
+      "id": "voice_inversion",
+      "name": "Voice Inversion Scrambling",
+      "freq": "Various HF/VHF/UHF",
+      "cat": "Scrambling & Encryption",
+      "nation": "Various",
+      "ts": "2026-04-03T11:12:10.936Z"
+    },
+    {
+      "id": "yachta_t219",
+      "name": "Yachta T-219 Voice Scrambler",
+      "freq": "Various HF/VHF",
+      "cat": "Scrambling & Encryption",
+      "nation": "Russia/USSR",
+      "ts": "2026-04-03T11:12:19.713Z"
+    },
+    {
+      "id": "vdl_m2",
+      "name": "VDL Mode 2 (VDL-M2)",
+      "freq": "136.900 / 136.925 MHz",
+      "cat": "Aviation & Marine",
+      "nation": "ICAO/International",
+      "ts": "2026-04-03T11:12:35.333Z"
+    },
+    {
+      "id": "gk2a_lrit",
+      "name": "GK-2A LRIT (Low-Rate Image Transmission)",
+      "freq": "1690.000 MHz",
+      "cat": "Aviation & Marine",
+      "nation": "South Korea/KMA",
+      "ts": "2026-04-03T11:14:40.082Z"
+    },
+    {
+      "id": "inmarsat_isatm2m",
+      "name": "Inmarsat IsatM2M",
+      "freq": "1518-1559 MHz L-band",
+      "cat": "Aviation & Marine",
+      "nation": "International/Inmarsat",
+      "ts": "2026-04-03T11:14:55.460Z"
+    },
+    {
+      "id": "orbcomm_mobile",
+      "name": "OrbComm Mobile Telephony",
+      "freq": "137-138 MHz (downlink) / 148-150.05 MHz (uplink)",
+      "cat": "Aviation & Marine",
+      "nation": "USA/OrbComm",
+      "ts": "2026-04-03T11:15:03.205Z"
+    },
+    {
+      "id": "inmarsat_d_downlink",
+      "name": "Inmarsat-D/D+ Downlink",
+      "freq": "1535-1545 MHz L-band",
+      "cat": "Aviation & Marine",
+      "nation": "International/Inmarsat",
+      "ts": "2026-04-03T11:15:11.535Z"
+    },
+    {
+      "id": "voice_generic_scan",
+      "name": "VOICE (Generic Analog Voice)",
+      "freq": "Various VHF/UHF",
+      "cat": "Voice Modes",
+      "nation": "International",
+      "ts": "2026-04-03T11:19:13.700Z"
+    },
+    {
+      "id": "m17_rf_scan",
+      "name": "M17 RF Protocol",
+      "freq": "144 / 430 MHz amateur",
+      "cat": "Voice Modes",
+      "nation": "Amateur/Open Source",
+      "ts": "2026-04-03T11:19:21.098Z"
+    },
+    {
+      "id": "baofeng_gmsk_scan",
+      "name": "Baofeng GMSK Digital Mode",
+      "freq": "VHF/UHF amateur + commercial",
+      "cat": "Voice Modes",
+      "nation": "China/Baofeng",
+      "ts": "2026-04-03T11:19:32.342Z"
+    },
+    {
+      "id": "ads_b_scan",
+      "name": "ADS-B (Automatic Dependent Surveillance)",
+      "freq": "1090 MHz (Mode S ES) / 978 MHz (UAT)",
+      "cat": "Aviation & Marine",
+      "nation": "ICAO/International",
+      "ts": "2026-04-03T11:19:46.583Z"
+    },
+    {
+      "id": "atis_scan",
+      "name": "ATIS (Automatic Terminal Info Service)",
+      "freq": "VHF aviation 118-136 MHz",
+      "cat": "Aviation & Marine",
+      "nation": "ICAO/International",
+      "ts": "2026-04-03T11:19:53.496Z"
+    },
+    {
+      "id": "acars_scan",
+      "name": "ACARS (Aircraft Comms Addressing)",
+      "freq": "129.125 / 136.900 MHz VHF",
+      "cat": "Aviation & Marine",
+      "nation": "ICAO/International",
+      "ts": "2026-04-03T11:20:35.245Z"
+    },
+    {
+      "id": "ky5758_scan",
+      "name": "KY-57/KY-58 VINSON Voice Encryption",
+      "freq": "Military HF/VHF/UHF",
+      "cat": "Scrambling & Encryption",
+      "nation": "USA/NSA",
+      "ts": "2026-04-03T11:20:58.065Z"
+    },
+    {
+      "id": "ahsc_scan",
+      "name": "AHSC (Adam H Secure Communication)",
+      "freq": "Various HF",
+      "cat": "Scrambling & Encryption",
+      "nation": "Amateur/Experimental",
+      "ts": "2026-04-03T11:21:13.202Z"
+    },
+    {
+      "id": "quadcopter_tel",
+      "name": "Quadcopter/Drone Telemetry",
+      "freq": "2.400-2.483 / 5.725-5.850 GHz",
+      "cat": "Data & Telemetry",
+      "nation": "Consumer/Various",
+      "ts": "2026-04-03T11:21:40.028Z"
+    },
+    {
+      "id": "cbet_scan",
+      "name": "CBET (Canada Broadcast Emergency Telemetry)",
+      "freq": "162.400-162.550 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "Canada/Environment Canada",
+      "ts": "2026-04-03T11:21:47.067Z"
+    },
+    {
+      "id": "aprs_scan",
+      "name": "APRS (Automatic Packet Reporting)",
+      "freq": "144.390 MHz (US) / 144.800 MHz (EU)",
+      "cat": "Data & Telemetry",
+      "nation": "Amateur/International",
+      "ts": "2026-04-03T11:21:54.844Z"
+    },
+    {
+      "id": "modat_scan",
+      "name": "MODAT Data System",
+      "freq": "VHF/UHF",
+      "cat": "Data & Telemetry",
+      "nation": "International",
+      "ts": "2026-04-03T11:22:05.144Z"
+    },
+    {
+      "id": "mobitex_scan",
+      "name": "MOBITEX Packet Network",
+      "freq": "Various VHF/UHF",
+      "cat": "Data & Telemetry",
+      "nation": "Ericsson/International",
+      "ts": "2026-04-03T11:22:14.190Z"
+    },
+    {
+      "id": "wlo_scan",
+      "name": "WLO Marine Radio (Mobile, AL)",
+      "freq": "4/8/12/16/22 MHz HF maritime",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Globe Wireless",
+      "ts": "2026-04-03T11:22:21.878Z"
+    },
+    {
+      "id": "atcs_scan",
+      "name": "ATCS (Automated Train Control)",
+      "freq": "220 MHz / 160-161 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/AAR",
+      "ts": "2026-04-03T11:22:34.977Z"
+    },
+    {
+      "id": "mdc1200_scan",
+      "name": "MDC1200 (Motorola Digital Comm)",
+      "freq": "VHF/UHF conventional FM",
+      "cat": "Data & Telemetry",
+      "nation": "Motorola/International",
+      "ts": "2026-04-03T11:23:10.102Z"
+    },
+    {
+      "id": "mdc1200_cn_scan",
+      "name": "Chinese/Asian MDC1200 Variant",
+      "freq": "VHF/UHF commercial bands",
+      "cat": "Data & Telemetry",
+      "nation": "China/Various",
+      "ts": "2026-04-03T11:23:18.717Z"
+    },
+    {
+      "id": "digital_dispatch_mdt",
+      "name": "Digital Dispatch MDT",
+      "freq": "VHF/UHF licensed dispatch",
+      "cat": "Data & Telemetry",
+      "nation": "International",
+      "ts": "2026-04-03T11:23:29.136Z"
+    },
+    {
+      "id": "kvb_scan",
+      "name": "KVB (Controle de Vitesse Balises)",
+      "freq": "27.095 MHz / 4.234 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "France/RFN",
+      "ts": "2026-04-03T11:23:36.794Z"
+    },
+    {
+      "id": "uic751_scan",
+      "name": "UIC 751-3 Train Reporting",
+      "freq": "VHF/UHF rail data",
+      "cat": "Data & Telemetry",
+      "nation": "International/UIC",
+      "ts": "2026-04-03T11:23:44.389Z"
+    },
+    {
+      "id": "bras3_scan",
+      "name": "BRAS-3 (RS-10) Radiosonde",
+      "freq": "400-406 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "Russia/Metek",
+      "ts": "2026-04-03T11:23:51.780Z"
+    },
+    {
+      "id": "quarry_tel_scan",
+      "name": "Possible Quarry Telemetry",
+      "freq": "Various VHF/UHF licensed",
+      "cat": "Data & Telemetry",
+      "nation": "Industrial/Mining",
+      "ts": "2026-04-03T11:24:00.131Z"
+    },
+    {
+      "id": "primex_timesync",
+      "name": "Primex Wireless Time Sync",
+      "freq": "916.5 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Primex",
+      "ts": "2026-04-03T11:24:09.824Z"
+    },
+    {
+      "id": "emwin_scan",
+      "name": "EMWIN (Emergency Managers Weather)",
+      "freq": "1694.1 MHz L-band / VHF repeaters",
+      "cat": "Data & Telemetry",
+      "nation": "USA/NOAA",
+      "ts": "2026-04-03T11:24:16.929Z"
+    },
+    {
+      "id": "distress_digital",
+      "name": "Distress Radiobeacon (Digital 406 MHz)",
+      "freq": "406.028 MHz",
+      "cat": "Data & Telemetry",
+      "nation": "International/COSPAS-SARSAT",
+      "ts": "2026-04-03T11:25:51.864Z"
+    },
+    {
+      "id": "hoffman_avm",
+      "name": "Hoffman Broadfield Signpost AVM System",
+      "freq": "VHF/UHF bus AVL",
+      "cat": "Data & Telemetry",
+      "nation": "UK/Hoffman",
+      "ts": "2026-04-03T11:26:02.104Z"
+    },
+    {
+      "id": "sensus_water_scan",
+      "name": "Sensus Water Meter AMR",
+      "freq": "450-470 MHz UHF",
+      "cat": "Data & Telemetry",
+      "nation": "USA/Xylem",
+      "ts": "2026-04-03T11:26:10.206Z"
+    },
+    {
+      "id": "moscad_scan",
+      "name": "Motorola MOSCAD SCADA Telemetry",
+      "freq": "Licensed VHF/UHF",
+      "cat": "Data & Telemetry",
+      "nation": "Motorola/International",
+      "ts": "2026-04-03T11:26:43.249Z"
+    },
+    {
+      "id": "ull_trading_scan",
+      "name": "Ultra Low Latency Electronic Trading",
+      "freq": "Various microwave point-to-point",
+      "cat": "Data & Telemetry",
+      "nation": "Financial/HFT",
+      "ts": "2026-04-03T11:27:07.857Z"
+    },
+    {
+      "id": "radio_relay_scan",
+      "name": "Radio-Relay Link (Microwave STL)",
+      "freq": "2-11 GHz microwave bands",
+      "cat": "Data & Telemetry",
+      "nation": "Various/Broadcast",
+      "ts": "2026-04-03T11:27:14.657Z"
+    },
+    {
+      "id": "powerline_tel_scan",
+      "name": "Russian Overhead Power Line Telemetry",
+      "freq": "30-150 kHz HF/LF",
+      "cat": "Data & Telemetry",
+      "nation": "Russia",
+      "ts": "2026-04-03T11:27:26.953Z"
+    },
+    {
+      "id": "quansheng_uvk5",
+      "name": "Quansheng UVK5 Digital Text Message",
+      "freq": "136-600 MHz wideband",
+      "cat": "Data & Telemetry",
+      "nation": "China/Quansheng",
+      "ts": "2026-04-03T11:27:36.598Z"
+    }
+  ],
+  "scanUnlocked": [
+    {
+      "id": "lojack",
+      "name": "LoJack (Vehicle Tracking)",
+      "freq": "173.075 MHz",
+      "mod": "FSK 5 bps low power",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "mfj269c",
+      "name": "MFJ-269C Antenna Analyzer (Sweep)",
+      "freq": "0.1-230 / 415-470 MHz",
+      "mod": "Swept CW antenna analyzer emission",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "portable_traffic_lights",
+      "name": "Portable Traffic Lights",
+      "freq": "433 / 868 MHz ISM",
+      "mod": "OOK/FSK wireless sync 433/868 MHz",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "radiomodem_423875",
+      "name": "Radiomodem 423.875 MHz",
+      "freq": "423.875 MHz",
+      "mod": "Unknown 423 MHz radiomodem FSK",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "eotd_signal",
+      "name": "EOTD (End-of-Train Device)",
+      "freq": "457.9375 / 452.9375 MHz",
+      "mod": "FSK EOT/HOT railroad telemetry",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "uk_amds",
+      "name": "UK AM Data System (UK-AMDS)",
+      "freq": "MW AM broadcast subcarrier",
+      "mod": "AMDS data subcarrier on MW AM broadcast",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "euro_scan",
+      "name": "EURO (European Paging Standard)",
+      "freq": "169.425 MHz (EU primary)",
+      "mod": "2FSK 512 Bd EURO paging protocol",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "distress_beacon",
+      "name": "Distress Radiobeacon (Analog 121.5 MHz)",
+      "freq": "121.500 MHz / 243.000 MHz",
+      "mod": "FM swept tone ELT/EPIRB distress beacon",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "dtmf_scan",
+      "name": "DTMF (Dual-Tone Multi-Frequency)",
+      "freq": "VoIP / PSTN audio band / HF/VHF RF",
+      "mod": "DTMF 8-tone pair telephone signalling",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "nfm_voice",
+      "name": "NFM Voice (FM Narrow)",
+      "freq": "Various VHF/UHF",
+      "mod": "NFM ±2.5 kHz deviation",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "wfm_voice",
+      "name": "WFM Voice (FM Wide)",
+      "freq": "88-108 MHz (broadcast) / 29-50 MHz (legacy)",
+      "mod": "WFM ±75 kHz deviation",
+      "xpMult": "0.5"
+    },
+    {
+      "id": "voice_inv",
+      "name": "Voice Inversion Scrambling",
+      "freq": "Various VHF/UHF/HF",
+      "mod": "Analogue frequency inversion",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "cb_radio_scan2",
+      "name": "CB Radio (11m Citizens Band)",
+      "freq": "26.965-27.405 MHz",
+      "mod": "AM/SSB 40-channel CB voice",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "cb_radio_scan",
+      "name": "CB Radio (11m Citizens Band)",
+      "freq": "26.965-27.405 MHz (US) / 26.565-27.405 MHz (EU)",
+      "mod": "AM/SSB voice 40 channels",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "ssb_voice_scan",
+      "name": "Single Sideband Voice (SSB)",
+      "freq": "Various HF amateur/commercial",
+      "mod": "J3E USB/LSB suppressed carrier voice",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "nfm_voice_scan",
+      "name": "NFM Voice (Narrow FM)",
+      "freq": "Various VHF/UHF",
+      "mod": "F3E 12.5/25 kHz narrowband FM voice",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "hfdl_scan",
+      "name": "HFDL (HF Data Link)",
+      "freq": "HF aviation 2-22 MHz (17 channels)",
+      "mod": "HFDL DPSK 300-1800 bps ACARS",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "amss_scan",
+      "name": "AMSS (Amplitude Modulation Signalling)",
+      "freq": "HF aviation bands",
+      "mod": "ICAO SELCAL + ACARS AM HF signalling",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "mdc4800",
+      "name": "MDC-4800",
+      "freq": "Various VHF/UHF (burst)",
+      "mod": "FSK 4800 bps burst",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "ctcss_dcs",
+      "name": "DCS (Digital Code Squelch)",
+      "freq": "Subaudible data 134.4 Hz clock",
+      "mod": "Digital BFSK subaudible",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "kenwood_fleetsync",
+      "name": "Kenwood FleetSync",
+      "freq": "VHF/UHF licensed",
+      "mod": "FSK 1200 Bd fleet management overlay",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "hfgcs_scan",
+      "name": "HFGCS (HF Global Comms System)",
+      "freq": "4724/6739/8967/11175/13200/15016 kHz",
+      "mod": "USB voice + EAM digital message",
+      "xpMult": "1.8"
+    },
+    {
+      "id": "chu_scan",
+      "name": "CHU (Canada Time Signal, Ottawa)",
+      "freq": "3330 / 7850 / 14670 kHz",
+      "mod": "AM CW time ticks + AFSK data",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "ascii_scan",
+      "name": "ASCII Data (HF Digital Text)",
+      "freq": "Various HF",
+      "mod": "ASCII character FSK/PSK encoding",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "autocab",
+      "name": "Autocab MDT System",
+      "freq": "Various VHF/UHF",
+      "mod": "POCSAG / GPRS data link",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "gandalf_mdt",
+      "name": "Gandalf MDT",
+      "freq": "Various UHF",
+      "mod": "FSK MDT proprietary",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "dstar",
+      "name": "D-STAR",
+      "freq": "144/430/1200 MHz",
+      "mod": "GMSK 4800 bps",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "fusion",
+      "name": "Yaesu System Fusion / C4FM",
+      "freq": "144/430 MHz",
+      "mod": "C4FM FDMA 9.6 kbps",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "p25",
+      "name": "Project 25 (P25 / APCO-25)",
+      "freq": "136-174 / 380-512 / 764-869 MHz",
+      "mod": "C4FM / CQPSK 9600 bps",
+      "xpMult": "2.0"
+    },
+    {
+      "id": "mpt1327",
+      "name": "MPT 1327",
+      "freq": "138-175 / 450-470 MHz",
+      "mod": "FSK 1200 bps control + NFM voice",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "tetra",
+      "name": "TETRA",
+      "freq": "380-400 / 410-430 / 450-470 / 870-876 MHz",
+      "mod": "Pi/4-DQPSK TDMA 36 kbps",
+      "xpMult": "2.2"
+    },
+    {
+      "id": "tetrapol",
+      "name": "Tetrapol",
+      "freq": "Various VHF/UHF",
+      "mod": "GMSK FDMA",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "motorola_t2",
+      "name": "Motorola Type II (SmartNet)",
+      "freq": "136-174 / 406-512 / 806-870 MHz",
+      "mod": "FSK 3600 bps control + analog voice",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "edacs",
+      "name": "EDACS (Enhanced Digital Access)",
+      "freq": "138-174 / 406-512 MHz",
+      "mod": "FSK 9600 bps control + NFM voice",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "ltr",
+      "name": "Logic Trunked Radio (LTR)",
+      "freq": "138-174 / 406-512 MHz",
+      "mod": "FSK 300 bps control + NFM voice",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "iden",
+      "name": "iDEN (Integrated Digital Enhanced Network)",
+      "freq": "806-821 / 851-866 MHz",
+      "mod": "M16QAM TDMA 64 kbps",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "opensky",
+      "name": "OpenSky",
+      "freq": "769-775 / 799-805 MHz",
+      "mod": "VSELP TDMA proprietary",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "nxdn",
+      "name": "NXDN",
+      "freq": "136-174 / 400-512 MHz",
+      "mod": "4-level FSK FDMA 6.25 kHz",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "dmr",
+      "name": "Digital Mobile Radio (DMR)",
+      "freq": "136-174 / 400-512 MHz",
+      "mod": "4FSK TDMA 9.6 kbps per slot",
+      "xpMult": "1.8"
+    },
+    {
+      "id": "dpmr",
+      "name": "dPMR (Digital PMR)",
+      "freq": "446.1-446.2 MHz (dPMR446) + licensed bands",
+      "mod": "4FSK FDMA 6.25 kHz",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "astro25",
+      "name": "Motorola ASTRO 25 HPD",
+      "freq": "136-174 / 380-512 / 764-870 MHz",
+      "mod": "CQPSK / C4FM P25 Phase 2",
+      "xpMult": "1.8"
+    },
+    {
+      "id": "securenet",
+      "name": "Motorola SECURENET",
+      "freq": "Various VHF/UHF",
+      "mod": "DVP / DES encrypted analogue",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "provoice",
+      "name": "ProVoice / EDACS ProVoice",
+      "freq": "138-174 / 406-512 MHz",
+      "mod": "EFR proprietary TDMA",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "ais",
+      "name": "AIS (Automatic Identification System)",
+      "freq": "161.975 / 162.025 MHz",
+      "mod": "GMSK FM 9600 bps HDLC",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "ctcss",
+      "name": "CTCSS (Continuous Tone-Coded Squelch)",
+      "freq": "67.0-254.1 Hz subaudible",
+      "mod": "Subaudible tone below 300 Hz",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "rdlap",
+      "name": "RD-LAP (Radio Data Link Access Procedure)",
+      "freq": "806-870 MHz (SMRS/800 MHz)",
+      "mod": "C4FM / GMSK 19.2 kbps",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "reflex",
+      "name": "ReFLEX",
+      "freq": "929-932 MHz (US paging)",
+      "mod": "FSK 4-level 25 kbps",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "uhf_vls",
+      "name": "UHF Vehicle Location System",
+      "freq": "Various UHF",
+      "mod": "FSK/BPSK GPS telemetry",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "eurobalise_scan",
+      "name": "Eurobalise Train Beacon",
+      "freq": "27.095 MHz downlink / 4.234 MHz uplink",
+      "mod": "Eurobalise FSK train-track datalink",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "hf_trading120_scan",
+      "name": "HF Trading Link '120 Hz FMCW Idle'",
+      "freq": "Various HF",
+      "mod": "120 Hz FMCW idle tone financial link",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "hf_trading350_scan",
+      "name": "HF Trading Link '350 Hz Idle Tone'",
+      "freq": "Various HF",
+      "mod": "350 Hz idle tone financial HF link",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "hfdvl_scan",
+      "name": "HFDVL (HF Data & Voice Link)",
+      "freq": "Various HF",
+      "mod": "Hybrid data/voice OFDM HF",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "nfc_scan",
+      "name": "NFC (Near Field Communication)",
+      "freq": "13.56 MHz ISM",
+      "mod": "ISO 14443/15693 inductive NFC",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "datawell_scan",
+      "name": "Datawell Buoy HF Link",
+      "freq": "HF maritime",
+      "mod": "Datawell FSK HF wave rider buoy",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "driftnet_scan",
+      "name": "Driftnet Buoy Radio Beacon",
+      "freq": "MF/HF maritime",
+      "mod": "FSK/CW drift net position beacon",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "vario_adc",
+      "name": "'Vario' Airplane Data Controller",
+      "freq": "VHF aviation data band",
+      "mod": "ACARS/VDL digital flight data",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "berlin_160",
+      "name": "160.282 MHz Berlin (Unknown)",
+      "freq": "160.282 MHz",
+      "mod": "Unknown FSK/NFM 160 MHz German",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "ecg_telemetry",
+      "name": "ECG Telemetry (Medical)",
+      "freq": "608-614 MHz / 1395-1400 MHz",
+      "mod": "FM/WMTS medical telemetry",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "efr_teleswitch",
+      "name": "EFR Teleswitch (Smart Meter LF)",
+      "freq": "183.000 kHz",
+      "mod": "LF 183 kHz load-control ripple",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "goes_dcs",
+      "name": "GOES DCS (Data Collection System)",
+      "freq": "401.700 / 402.050 / 402.200 MHz",
+      "mod": "BPSK 100 Bd GOES DCS uplink",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "snotel",
+      "name": "SNOTEL (Snow Telemetry)",
+      "freq": "400.000 MHz / 900 MHz",
+      "mod": "Meteor-burst / UHF SNOTEL telemetry",
+      "xpMult": "1.8"
+    },
+    {
+      "id": "scada_signal",
+      "name": "SCADA (Supervisory Control)",
+      "freq": "Various VHF/UHF/900 MHz",
+      "mod": "Various SCADA modem FSK/4FSK",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "water_plant_tel",
+      "name": "Water Plant Telemetry",
+      "freq": "Licensed VHF/UHF",
+      "mod": "FSK SCADA water utility telemetry",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "water_tower_com",
+      "name": "Water Tower to Pump Telemetry",
+      "freq": "Licensed VHF/UHF",
+      "mod": "FSK narrow-band pump control",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "vehicle_counting",
+      "name": "Vehicle Counting System",
+      "freq": "5.8 GHz / 433 MHz / loop sensor",
+      "mod": "Microwave doppler / RF loop counter",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "traffic_light_r09",
+      "name": "Traffic Light Control R09",
+      "freq": "433 MHz / IR",
+      "mod": "R09 tram priority FSK 433 MHz",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "road_maintenance_tel",
+      "name": "Road Coordination Telemetry",
+      "freq": "Various UHF",
+      "mod": "DMR/P25/NXDN road maintenance radio",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "john_deere_rtk",
+      "name": "John Deere RTK Radio 450",
+      "freq": "900 MHz ISM",
+      "mod": "FHSS 900 MHz RTK GPS correction",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "lrs_pager",
+      "name": "LRS Restaurant Pager",
+      "freq": "462-468 MHz GMRS/FRS area",
+      "mod": "POCSAG/LRS paging 462-468 MHz",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "wireless_hydrophone",
+      "name": "Wireless Hydrophone System (WHS)",
+      "freq": "Various UHF/HF telemetry",
+      "mod": "FSK/OFDM underwater acoustic telemetry",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "schneider_trio_e",
+      "name": "Schneider Trio E-Series Modem",
+      "freq": "Licensed VHF/UHF utility bands",
+      "mod": "FSK/GMSK SCADA radio modem",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "monaco_maap",
+      "name": "Monaco Enterprises MAAP Fire Alarm",
+      "freq": "Licensed UHF fire alarm band",
+      "mod": "FSK wireless fire alarm telemetry",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "federal_signal_msk",
+      "name": "Federal Signal Modem-MSK",
+      "freq": "Various licensed",
+      "mod": "MSK telemetry Federal Signal",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "ptc_signal",
+      "name": "PTC (Positive Train Control)",
+      "freq": "220-222 MHz",
+      "mod": "TDMA 220 MHz overlay 4FSK",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "i_etms",
+      "name": "I-ETMS (Interoperable Train Management)",
+      "freq": "220-222 MHz",
+      "mod": "I-ETMS TDMA 220 MHz digital train control",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "dpu_railroad",
+      "name": "DPU (Distributed Power Unit)",
+      "freq": "220-222 MHz / 160-161 MHz AAR",
+      "mod": "AAR FSK DPU remote locomotive link",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "stp403_bus",
+      "name": "STP403 Bus PIT System",
+      "freq": "UHF bus telemetry band",
+      "mod": "FSK bus passenger information telemetry",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "vdew_scan",
+      "name": "VDEW (German Utility Teleswitch)",
+      "freq": "150.000 kHz LF",
+      "mod": "LF ripple control German utility",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "eurobalise_scan2",
+      "name": "Eurobalise Train Beacon (ETCS)",
+      "freq": "27.095 MHz down / 4.234 MHz up",
+      "mod": "Eurobalise FSK train-track ETCS datalink",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "p25_trunked",
+      "name": "P25 Trunked Systems",
+      "freq": "7/800 MHz public safety bands",
+      "mod": "P25 Phase 1/2 trunking",
+      "xpMult": "2.2"
+    },
+    {
+      "id": "stargate_hpd",
+      "name": "Motorola ASTRO 25 HPD Stargate",
+      "freq": "806-870 MHz",
+      "mod": "P25 TDMA + packet data",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "dvp",
+      "name": "DVP / DVP-XL Scrambling",
+      "freq": "Various VHF/UHF",
+      "mod": "DVP proprietary voice scramble",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "p25_des",
+      "name": "P25 DES/AES Encrypted",
+      "freq": "Various P25 system frequencies",
+      "mod": "P25 + DES-OFB / AES-256",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "securenet_dvp",
+      "name": "SECURENET / DVP Digital Voice",
+      "freq": "Various VHF/UHF",
+      "mod": "DVP + DES encrypted",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "cv786_scan",
+      "name": "CV-786 Voice Scrambler",
+      "freq": "HF + VHF/UHF voice channels",
+      "mod": "Analog voice inversion/rolling scrambler",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "hc265_scan",
+      "name": "HC-265 Voice Scrambler",
+      "freq": "HF voice channels",
+      "mod": "Analog split-band voice scrambler",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "cry2001_scan",
+      "name": "CRY2001 Voice Scrambler",
+      "freq": "HF/VHF voice channels",
+      "mod": "Digital voice encryption scrambler",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "thales_sys3000",
+      "name": "Thales Systeme 3000 Scrambler",
+      "freq": "HF/VHF voice channels",
+      "mod": "Analog voice scrambler rolling inversion",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "voice_inversion",
+      "name": "Voice Inversion Scrambling",
+      "freq": "Various HF/VHF/UHF",
+      "mod": "Frequency-inverted analog voice",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "yachta_t219",
+      "name": "Yachta T-219 Voice Scrambler",
+      "freq": "Various HF/VHF",
+      "mod": "Soviet analog voice scrambler T-219",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "vdl_m2",
+      "name": "VDL Mode 2 (VDL-M2)",
+      "freq": "136.900 / 136.925 MHz",
+      "mod": "D8PSK 31.5 kbps VHF datalink",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "gk2a_lrit",
+      "name": "GK-2A LRIT (Low-Rate Image Transmission)",
+      "freq": "1690.000 MHz",
+      "mod": "BPSK 630 kbps geostationary satellite",
+      "xpMult": "2.0"
+    },
+    {
+      "id": "inmarsat_isatm2m",
+      "name": "Inmarsat IsatM2M",
+      "freq": "1518-1559 MHz L-band",
+      "mod": "BPSK L-band satellite M2M data",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "orbcomm_mobile",
+      "name": "OrbComm Mobile Telephony",
+      "freq": "137-138 MHz (downlink) / 148-150.05 MHz (uplink)",
+      "mod": "GMSK LEO satellite messaging",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "inmarsat_d_downlink",
+      "name": "Inmarsat-D/D+ Downlink",
+      "freq": "1535-1545 MHz L-band",
+      "mod": "TDM BPSK L-band paging/data",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "voice_generic_scan",
+      "name": "VOICE (Generic Analog Voice)",
+      "freq": "Various VHF/UHF",
+      "mod": "AM/FM/SSB generic voice transmission",
+      "xpMult": "0.6"
+    },
+    {
+      "id": "m17_rf_scan",
+      "name": "M17 RF Protocol",
+      "freq": "144 / 430 MHz amateur",
+      "mod": "4FSK M17 digital voice open protocol",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "baofeng_gmsk_scan",
+      "name": "Baofeng GMSK Digital Mode",
+      "freq": "VHF/UHF amateur + commercial",
+      "mod": "GMSK digital voice Baofeng UV-17/series",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "ads_b_scan",
+      "name": "ADS-B (Automatic Dependent Surveillance)",
+      "freq": "1090 MHz (Mode S ES) / 978 MHz (UAT)",
+      "mod": "PPM transponder 1090ES / UAT",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "atis_scan",
+      "name": "ATIS (Automatic Terminal Info Service)",
+      "freq": "VHF aviation 118-136 MHz",
+      "mod": "VHF AM/DSB ATIS voice loop broadcast",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "acars_scan",
+      "name": "ACARS (Aircraft Comms Addressing)",
+      "freq": "129.125 / 136.900 MHz VHF",
+      "mod": "VHF ACARS ARINC 429 digital datalink",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "ky5758_scan",
+      "name": "KY-57/KY-58 VINSON Voice Encryption",
+      "freq": "Military HF/VHF/UHF",
+      "mod": "VINSON Type 1 voice encryption NSA",
+      "xpMult": "2.0"
+    },
+    {
+      "id": "ahsc_scan",
+      "name": "AHSC (Adam H Secure Communication)",
+      "freq": "Various HF",
+      "mod": "Experimental HF secure comms mode",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "quadcopter_tel",
+      "name": "Quadcopter/Drone Telemetry",
+      "freq": "2.400-2.483 / 5.725-5.850 GHz",
+      "mod": "FHSS/DSSS drone RC and telemetry",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "cbet_scan",
+      "name": "CBET (Canada Broadcast Emergency Telemetry)",
+      "freq": "162.400-162.550 MHz",
+      "mod": "VHF SAME digital EAS broadcast",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "aprs_scan",
+      "name": "APRS (Automatic Packet Reporting)",
+      "freq": "144.390 MHz (US) / 144.800 MHz (EU)",
+      "mod": "AFSK 1200 Bd AX.25 APRS position",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "modat_scan",
+      "name": "MODAT Data System",
+      "freq": "VHF/UHF",
+      "mod": "MODAT digital data overlay on voice",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "mobitex_scan",
+      "name": "MOBITEX Packet Network",
+      "freq": "Various VHF/UHF",
+      "mod": "MOBITEX packet radio 8 kbps",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "wlo_scan",
+      "name": "WLO Marine Radio (Mobile, AL)",
+      "freq": "4/8/12/16/22 MHz HF maritime",
+      "mod": "SITOR-A/RTTY/SSB HF maritime station",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "atcs_scan",
+      "name": "ATCS (Automated Train Control)",
+      "freq": "220 MHz / 160-161 MHz",
+      "mod": "FSK ATCS train location and control",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "mdc1200_scan",
+      "name": "MDC1200 (Motorola Digital Comm)",
+      "freq": "VHF/UHF conventional FM",
+      "mod": "MDC1200 1200 Bd FSK PTT-ID",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "mdc1200_cn_scan",
+      "name": "Chinese/Asian MDC1200 Variant",
+      "freq": "VHF/UHF commercial bands",
+      "mod": "MDC1200 variant 1200 Bd FSK",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "digital_dispatch_mdt",
+      "name": "Digital Dispatch MDT",
+      "freq": "VHF/UHF licensed dispatch",
+      "mod": "FSK/MDT computer-aided dispatch data",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "kvb_scan",
+      "name": "KVB (Controle de Vitesse Balises)",
+      "freq": "27.095 MHz / 4.234 MHz",
+      "mod": "FSK train speed control transponder",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "uic751_scan",
+      "name": "UIC 751-3 Train Reporting",
+      "freq": "VHF/UHF rail data",
+      "mod": "FSK UIC 751-3 train data reporting",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "bras3_scan",
+      "name": "BRAS-3 (RS-10) Radiosonde",
+      "freq": "400-406 MHz",
+      "mod": "FSK Russian meteorological sonde",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "quarry_tel_scan",
+      "name": "Possible Quarry Telemetry",
+      "freq": "Various VHF/UHF licensed",
+      "mod": "FSK quarry blast timing telemetry",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "primex_timesync",
+      "name": "Primex Wireless Time Sync",
+      "freq": "916.5 MHz",
+      "mod": "FSK wireless time synchronisation network",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "emwin_scan",
+      "name": "EMWIN (Emergency Managers Weather)",
+      "freq": "1694.1 MHz L-band / VHF repeaters",
+      "mod": "EMWIN GOES rebroadcast weather data",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "distress_digital",
+      "name": "Distress Radiobeacon (Digital 406 MHz)",
+      "freq": "406.028 MHz",
+      "mod": "FSK 406 MHz digital distress ELT/EPIRB",
+      "xpMult": "1.4"
+    },
+    {
+      "id": "hoffman_avm",
+      "name": "Hoffman Broadfield Signpost AVM System",
+      "freq": "VHF/UHF bus AVL",
+      "mod": "AVL automatic vehicle location bus system",
+      "xpMult": "0.8"
+    },
+    {
+      "id": "sensus_water_scan",
+      "name": "Sensus Water Meter AMR",
+      "freq": "450-470 MHz UHF",
+      "mod": "BPSK/GFSK water meter AMR pulse",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "moscad_scan",
+      "name": "Motorola MOSCAD SCADA Telemetry",
+      "freq": "Licensed VHF/UHF",
+      "mod": "FSK MOSCAD SCADA radio modem",
+      "xpMult": "1.2"
+    },
+    {
+      "id": "ull_trading_scan",
+      "name": "Ultra Low Latency Electronic Trading",
+      "freq": "Various microwave point-to-point",
+      "mod": "Microwave ULL trading link HFT",
+      "xpMult": "1.6"
+    },
+    {
+      "id": "radio_relay_scan",
+      "name": "Radio-Relay Link (Microwave STL)",
+      "freq": "2-11 GHz microwave bands",
+      "mod": "QPSK/16QAM microwave point-to-point",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "powerline_tel_scan",
+      "name": "Russian Overhead Power Line Telemetry",
+      "freq": "30-150 kHz HF/LF",
+      "mod": "FSK power line carrier telemetry",
+      "xpMult": "1.0"
+    },
+    {
+      "id": "quansheng_uvk5",
+      "name": "Quansheng UVK5 Digital Text Message",
+      "freq": "136-600 MHz wideband",
+      "mod": "Quansheng UVK5 digital text overlay",
+      "xpMult": "0.8"
+    }
+  ],
+  "ownedVehicles": [
+    "ford_pinto",
+    "hummer_h1",
+    "iss_model",
+    "semi_truck",
+    "military_deuce",
+    "school_bus",
+    "rv_motorhome"
+  ],
+  "activeVehicle": "Winnebago Brave (1978)",
+  "_savedAt": "2026-05-04T06:19:59.674Z",
+  "_chase": {
+    "sv": {
+      "id": "tiv3",
+      "name": "TIV 3 (Concept)",
+      "type": "Armored Intercept",
+      "cost": 220,
+      "armor": 8,
+      "probeSlots": 4,
+      "dataBonus": 5,
+      "desc": "Concept armored intercept vehicle. Reinforced titanium hull, full sensor suite. EF5 concept.",
+      "flavor": "The TIV 3 concept exists only in blueprints and dreams. But what dreams they are.",
+      "note": "Theoretical EF5 intercept capability. Retractable probe arms. 360 camera array concept.",
+      "xpBonus": 70,
+      "moralBonus": 40
+    },
+    "armor": 8,
+    "bonus": 5,
+    "probes": 4,
+    "phase": "briefing",
+    "risk": 5,
+    "data": 3,
+    "spc_moderate": true,
+    "target": "moderate",
+    "approach": "core"
+  },
+  "_version": "1.0"
+}
